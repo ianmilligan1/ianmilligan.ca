@@ -18,3 +18,4 @@ autolink = true
 email_form = 2
 +++
 
+You can send me an e-mail at <mailto:i2milligan@uwaterloo.ca> or use the form below.
