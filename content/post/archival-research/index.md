@@ -1,0 +1,64 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Re-Posted from the Conversation: Historians’ archival research looks quite different in the digital age"
+subtitle: ""
+summary: "Our society’s historical record is undergoing a dramatic transformation. Think of all the information that you create today that will be part of the record for tomorrow. More than half of the world’s population is online and may be doing at least some of the following: communicating by email, sharing thoughts on Twitter or social media or publishing on the web."
+authors: []
+tags: []
+categories: []
+date: 2019-08-20T15:24:37-05:00
+lastmod: 2019-08-20T15:24:37-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+<figcaption>Today, and into the future, consulting archival documents increasingly means reading them on a screen.<br /><span class="attribution"><span class="source">(Shutterstock)</span></span></figcaption>
+<p><a href="https://theconversation.com/profiles/ian-milligan-789716">Ian Milligan</a>, <em><a href="http://theconversation.com/institutions/university-of-waterloo-1284">University of Waterloo</a></em></p>
+<p>Our society’s historical record is undergoing a dramatic transformation.</p>
+<p>Think of all the information that you create today that will be part of the record for tomorrow. <a href="https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx">More than half of the world’s population is online</a> and may be doing at least some of the following: communicating by email, sharing thoughts on Twitter or social media or publishing on the web.<!--more--></p>
+<p>Governments and institutions are no different. The American National Archives and Records Administration, responsible for American official records, “<a href="https://www.archives.gov/news/articles/leaders-share-national-archives-vision-for-a-digital-future">will no longer take records in paper form after December 31, 2022.</a>”</p>
+<p>In Canada, under Library and Archives Canada’s <a href="https://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/introduction.aspx">Digital by 2017</a> plan, records are now preserved in the format that they were created in: that means a Word document or email will be part of our historical record as a digital object.</p>
+<p>Traditionally, exploring archives meant largely physically collecting, searching and reviewing paper records. Today, and into the future, consulting archival documents increasingly means reading them on a screen.</p>
+<p>This brings with it opportunity — imagine being able to search for keywords across millions of documents, leading to radically faster search times — but also challenge, as the number of electronic documents increases exponentially.</p>
+<p>As I’ve argued in my recent book <a href="https://www.mqup.ca/history-in-the-age-of-abundance--products-9780773556973.php"><em>History in the Age of Abundance</em></a>, digitized sources present extraordinary opportunities as well as daunting challenges for historians. Universities will need to incorporate new approaches to how they train historians, either through historical programs or newly-emerging interdisciplinary programs in the <a href="https://guides.library.duke.edu/digital_humanities">digital humanities</a>.</p>
+<p>The ever-growing scale and scope of digital records suggests technical challenges: historians need new skills to plumb these for meaning, trends, voices and other currents, to piece together an understanding of what happened in the past.</p>
+<p>There are also ethical challenges, which, although not new in the field of history, now bear particular contemporary attention and scrutiny.</p>
+<p>Historians have long relied on librarians and archivists to bring order to information. Part of their work has involved ethical choices about what to preserve, curate, catalogue and display and how to do so. Today, many digital sources are now at our fingertips — albeit in raw, often uncatalogued, format. Historians are entering uncharted territory.</p>
+<h2>Digital abundance</h2>
+<p>Traditionally, as the late, great American historian Roy Rosenzweig of George Mason University argued, historians operated <a href="https://doi.org/10.1086/ahr/108.3.735">in a scarcity-based economy: we wished we had more information about the past</a>.<br />Today, hundreds of billions of websites preserved at the <a href="https://archive.org/about/">Internet Archive</a> alone is more archival information than scholars have ever had access to. People who never before would have been included in archives are part of these collections.</p>
+<p>Take web archiving, for example, which is the preservation of websites for future use. Since 2005, Library and Archives Canada’s <a href="http://webarchive.bac-lac.gc.ca/?lang=en">web archiving program</a> has collected over <a href="https://www.routledge.com/The-Historical-Web-and-Digital-Humanities-The-Case-of-National-Web-Domains/Brugger-Laursen/p/book/9781138294318">36 terabytes of information</a> with over <a href="https://www.bac-lac.gc.ca/eng/about-us/annual-reports/annual-report-2017-2018/Pages/annual-report-2017-2018.aspx">800 million items</a>.</p>
+<p>Even historians who study the middle ages or the 19th centuries are being affected by this dramatic transformation. They’re now frequently consulting records that began life as traditional parchment or paper, but were subsequently digitized.</p>
+<h2>Historians’ digital literacy</h2>
+<p>Our research team at the University of Waterloo and York University, <a href="https://archivesunleashed.org">collaborating on the Archives Unleashed Project</a>, uses sources like the GeoCities.com web archive. This is a collection of websites published by users between 1994 and 2009. We have some 186 million web pages to use, created by seven million users.</p>
+<p>Our traditional approaches for examining historical sources simply won’t work on the scale of hundreds of millions of documents created by one website alone. We can’t read page by page nor can we simply count keywords or outsource our intellectual labour to a search engine like Google.</p>
+<p>As historians examining these archives, we need a fundamental understanding of how records were produced, preserved and accessed. Such questions and modes of analysis are continuous with historians’ traditional training: <a href="https://doi.org/10.1002/asi.24048">Why were these records created</a>? Who created or preserved them? And, what <a href="https://doi.org/10.1177%2F1461444811414834"><em>wasn’t</em> preserved</a>?</p>
+<p>Second, historians who confront such voluminous data need to develop more contemporary skills to process it. Such skills can range from knowing how to take images of documents and make them searchable using <a href="http://doi.org/10.3138/chr.694">Optical Character Recognition</a>, to the ability to not only count how often given terms appear, but also what contexts they appear in and how concepts begin to appear alongside other concepts.</p>
+<p>You might be interested in finding the “Johnson” in “Boris Johnson,” but not the “Johnson &amp; Johnson Company.” Just searching for “Johnson” is going to get a lot of misleading results: keyword searching won’t get you there. Yet emergent research in the field of <a href="http://www.nltk.org/">natural language processing</a> might!</p>
+<p>Historians need to develop basic algorithmic and data fluency. They don’t need to be programmers, but they do need to think about how code and data operates, how digital objects are stored and created and humans’ role at all stages.</p>
+<h2>Deep fake vs. history</h2>
+<p>As historical work is increasingly defined by digital records, historians can contribute to critical conversations around the role of algorithms and truth in the digital age. While both tech companies and some scholars have advanced the idea that technology and the internet will strengthen democratic participation, historical research can help uncover the <a href="https://mitpress.mit.edu/books/programmed-inequality">impact of socio-economic power throughout communications and media history</a>. Historians can also <a href="https://www.washingtonpost.com/outlook/2019/06/11/what-naomi-wolf-cokie-roberts-teach-us-about-need-historians/">help amateurs parse the sea of historical information and sources now on the Web</a>.</p>
+<p>One of the defining skills of a historian is an understanding of historical context. Historians instinctively read documents, whether they are newspaper columns, government reports or tweets, and contextualise them in terms of not only who wrote them, but their environment, culture and time period.</p>
+<p>As societies lose their physical paper trails and increasingly rely on digital information, historians, and their grasp of context, will become more important than ever.</p>
+<p>As deepfakes — <a href="https://doi.org/10.1177%2F1365712718807226">products of artificial intelligence that can alter images or video clips</a> — <a href="https://www.rollingstone.com/culture/culture-news/bill-hader-tom-cruise-seth-rogen-deepfake-871154/">increase in popularity online</a>, both our media environment and our historical record will increasingly be full of misinformation.</p>
+<p>Western societies’ traditional archives — such as those held by <a href="http://www.bac-lac.gc.ca/eng/Pages/home.aspx">Library and Archives Canada</a> or the <a href="https://www.archives.gov">National Archives and Records Administration</a> — contain (and have always contained) misinformation, misrepresentation and biased worldviews, among other flaws.</p>
+<p>Historians are specialists in critically reading documents and then seeking to confirm them. They synthesise their findings with a <a href="https://global.oup.com/ushe/product/the-landscape-of-history-9780195171570">broad array of additional sources and voices</a>. Historians tie together <a href="https://www.cambridge.org/core/books/history-manifesto/big-questions-big-data/F60D7E21EFBD018F5410FB315FBA4590/core-reader">big pictures and findings</a>, which <a href="https://www.macmillanihe.com/page/detail/Why-History-Matters/?K=9781137604071">helps us understand today’s world</a>.</p>
+<p>The work of a historian might look a lot different in the 21st century — exploring databases, parsing data — but the application of their fundamental skills of seeking context and accumulating knowledge will serve both society and them well in the digital age.</p>
+<p>[ <em>You’re smart and curious about the world. So are The Conversation’s authors and editors.</em> <a href="https://theconversation.com/ca/newsletters?utm_source=TCCA&amp;utm_medium=inline-link&amp;utm_campaign=newsletter-text&amp;utm_content=youresmart">You can read us daily by subscribing to our newsletter</a>. ]<!-- Below is The Conversation's page counter tag. Please DO NOT REMOVE. --><img style="border: none !important; box-shadow: none !important; margin: 0!important; max-height: 1px !important; max-width: 1px !important; min-height: 1px !important; min-width: 1px !important; opacity: 0 !important; outline: none !important; padding: 0!important; text-shadow: none !important;" src="https://counter.theconversation.com/content/121096/count.gif?distributor=republish-lightbox-basic" alt="The Conversation" width="1" height="1" /><!-- End of code. If you don't see any code above, please get new code from the Advanced tab after you click the republish button. The page counter does not collect any personal data. More info: http://theconversation.com/republishing-guidelines --></p>
+<p><a href="https://theconversation.com/profiles/ian-milligan-789716">Ian Milligan</a>, Associate Professor of History, <em><a href="http://theconversation.com/institutions/university-of-waterloo-1284">University of Waterloo</a></em></p>
+<p>This article is republished from <a href="http://theconversation.com">The Conversation</a> under a Creative Commons license. Read the <a href="https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096">original article</a>.</p>

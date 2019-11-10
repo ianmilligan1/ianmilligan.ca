@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Recent & Upcoming Talks/Events"
 subtitle = ""
 
 [content]
@@ -67,3 +67,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+For a full list of talks and presentations, please see my [CV](/files/cv.pdf).
