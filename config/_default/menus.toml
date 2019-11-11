@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Books"
-  url = "#publications"
+  url = "#books"
   weight = 20
 
 [[main]]
@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Courses"
-  url = "#accomplishments"
+  url = "#courses"
   weight = 30
 
 [[main]]
@@ -35,7 +35,7 @@
 
 [[main]]
   name = "Publications"
-  url = "#articles"
+  url = "#publications"
   weight = 55
 
 [[main]]
