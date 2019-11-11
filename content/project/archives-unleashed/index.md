@@ -48,4 +48,4 @@ url_video: ""
 slides: ""
 ---
 
-*Principal Investigator.* Archives Unleashed aims to make petabytes of historical internet content accessible to scholars and others interested in researching the recent past. Supported by a grant from the Andrew W. Mellon Foundation, we are developing web archive search and data analysis tools to enable scholars, librarians and archivists to access, share, and investigate recent history since the early days of the World Wide Web. Please visit [our website](https://archivesunleashed.org) for more information.
+Archives Unleashed aims to make petabytes of historical internet content accessible to scholars and others interested in researching the recent past. Supported by a grant from the Andrew W. Mellon Foundation, we are developing web archive search and data analysis tools to enable scholars, librarians and archivists to access, share, and investigate recent history since the early days of the World Wide Web. Please visit [our website](https://archivesunleashed.org) for more information. *Principal Investigator (w/ Nick Ruest and Jimmy Lin)*

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Continuing Education to Advance Web Archiving (CEDWARC)"
+title: "A Longitudinal Analysis of the Canadian World Wide Web as a Historical Resource, 1996-2014"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2019-10-10T15:54:33-05:00
+date: 2015-11-10T21:14:16-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Supported by the IMLS LB21 program, the CEDWARC project develops a continuing education curriculum and teaches library and archive professionals advanced web archiving and analysis techniques. We will offer one in-person training workshop and multiple online training workshops throughout the project period. [Details about the project](https://cedwarc.github.io). *Co-Investigator (grant led by Zhiwu Xie at Virginia Tech)*
+This project will help train highly-qualified personnel (HQP) in the humanities to prepare for the digital deluge that is already affecting our profession. It was among the first attempts to harness data in ways that will enable present and future historians to usefully access, interpret, and curate masses of born-digital primary sources. *Principal Investigator (w/ Nick Ruest and William J. Turkel)*
