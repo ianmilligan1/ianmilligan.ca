@@ -49,6 +49,10 @@ links:
    url: https://books.google.ca/books/about/The_SAGE_Handbook_of_Web_History.html?id=le20swEACAAJ&redir_esc=y
    icon_pack: fab
    icon: google
+ - name: Goodreads
+   url: https://www.goodreads.com/book/show/39970862-the-sage-handbook-of-web-history?from_search=true&qid=ANRHdj9Hl2&rank=1
+   icon_pack: fab
+   icon: goodreads
 
 url_pdf:
 url_code:

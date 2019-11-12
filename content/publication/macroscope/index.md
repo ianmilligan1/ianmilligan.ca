@@ -70,6 +70,10 @@ links:
    url: https://books.google.ca/books/about/Exploring_Big_Historical_Data.html?id=r-U7DQAAQBAJ&redir_esc=y
    icon_pack: fab
    icon: google
+ - name: Goodreads
+   url: https://www.goodreads.com/book/show/26591143-exploring-big-historical-data?from_search=true&qid=eOXi4ehFMv&rank=1
+   icon_pack: fab
+   icon: goodreads
 
 url_pdf:
 url_code:

@@ -63,6 +63,10 @@ links:
    url: https://books.google.ca/books/about/Rebel_Youth.html?id=YdxYnwEACAAJ&redir_esc=y
    icon_pack: fab
    icon: google
+ - name: Goodreads
+   url: https://www.goodreads.com/book/show/19147910-rebel-youth
+   icon_pack: fab
+   icon: goodreads
 
 url_pdf:
 url_code:

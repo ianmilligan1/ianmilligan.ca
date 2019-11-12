@@ -64,6 +64,10 @@ links:
    url: https://books.google.ca/books/about/History_in_the_Age_of_Abundance.html?id=lR3MvQEACAAJ&redir_esc=y
    icon_pack: fab
    icon: google
+ - name: Goodreads
+   url: https://www.goodreads.com/book/show/42682653-history-in-the-age-of-abundance
+   icon_pack: fab
+   icon: goodreads
 
 url_pdf:
 url_code:
