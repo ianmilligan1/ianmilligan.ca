@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Archives Unleashed Dathon - Montreal (IIPC)"
+title: "Archives Unleashed Datathon - Montreal (IIPC)"
 event:
 event_url: http://netpreserve.org/ga2020/datathon/
 location: BAnQ Vieux-Montreal, Montreal, Quebec

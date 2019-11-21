@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-The most popular thing I probably ever wrote on my [old website](http://ianmilli.wordpress.org) was my SSHRC Postdoctoral Fellowship statement of interest. Heck, I was at Convocation this summer and a colleague mentioned that his child was using it in his own application. 
+The most popular thing I probably ever wrote on my [old website](http://ianmilli.wordpress.org) was my SSHRC Postdoctoral Fellowship statement of interest. Heck, I was at convocation this summer and a colleague mentioned that their child was using it in their own application. 
 
 I suppose not too many of us share these things publicly. Anyways, I wanted to make sure it was still accessible, so it now has a new [home on this new website as well](/project-proposal-sshrc).
