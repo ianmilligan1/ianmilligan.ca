@@ -31,6 +31,5 @@ projects: []
 After ten years of blogging ([seriously](https://ianmilli.wordpress.com/2009/11/30/the-role-of-historical-monographs/
 )) at the WordPress.com version of ianmilligan.ca, the time has come for a new look and platform for my site! 
 
-This change has been a long time coming (the new WordPress.com editor annoyed me; my relative frequency of blogging has dropped off making a blog-centric platform less appealing; and paying to get rid of advertisements, etc. on a yearly basis). I did a bit of looking into migrating the content to this, but well, with the recent release of [*History in the Age of Abundance*](https://ianmilligan.ca/2009/11/30/the-role-of-historical-monographs/
-), my focus on the [Archives Unleashed project](https://ianmilligan.ca/2009/11/30/the-role-of-historical-monographs/
+This change has been a long time coming (the new WordPress.com editor annoyed me; my relative frequency of blogging has dropped off making a blog-centric platform less appealing; and paying to get rid of advertisements, etc. on a yearly basis). I did a bit of looking into migrating the content to this new site, but well, with the recent release of [*History in the Age of Abundance*](/publication/history-in-the-age-of-abundance), my focus on the [Archives Unleashed project](https://ianmilligan.ca/2009/11/30/the-role-of-historical-monographs/
 ), and my own shifting interests, it seemed to make sense to leave the old <https://ianmilli.wordpress.com> site alive and start fresh here. 
