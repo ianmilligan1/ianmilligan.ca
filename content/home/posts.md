@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-My earlier blog was a Wordpress blog at <http://ianmilli.wordpress.com>.
+Archived blog posts pre-dating November 10th, 2019 can be found at <http://ianmilli.wordpress.com>.

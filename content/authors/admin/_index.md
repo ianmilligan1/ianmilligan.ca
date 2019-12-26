@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Ian Milligan's primary research focus is on how historians can use web archives. He is the principal investigator of the [Archives Unleashed project](https://archivesunleashed.org). Milligan teaches courses in historical methodology, postwar Canada, and digital history, and supervises graduate students in diverse areas including web history, digital methods, postwar Canadian history, video games, and childhood studies. In 2016, he was awarded the Canadian Society for Digital Humanities [Outstanding Early Career Award](http://csdh-schn.org/2016/02/09/csdhschn-2016-outstanding-early-career-award/) and in 2019 he received the Arts Excellence in Research award from the University of Waterloo. Milligan held an Ontario Early Researcher Award between 2015 and 2020.
+Ian Milligan's primary research focus is on how historians can use web archives. He is the principal investigator of the [Archives Unleashed project](https://archivesunleashed.org). Milligan teaches courses in historical methodology, postwar Canada, and digital history, and supervises graduate students in diverse areas including web history, digital methods, postwar Canadian history, video games, and childhood studies. In 2016, he was awarded the Canadian Society for Digital Humanities [Outstanding Early Career Award](http://csdh-schn.org/2016/02/09/csdhschn-2016-outstanding-early-career-award/) and in 2019 he received the Arts Excellence in Research award from the University of Waterloo. Milligan held an [Ontario Early Researcher Award](https://www.ontario.ca/page/early-researcher-awards) between 2015 and 2020.
 
 He lives in Waterloo, Ontario, Canada with his partner, son, and daughter.
 
