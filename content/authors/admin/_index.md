@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Ian Milligan's primary research focus is on how historians can use web archives, as well as the impact of digital sources on historical practice more generally. He is author of two monographs: [*History in the Age of Abundance*](/publication/history-in-the-age-of-abundance) (2019) and [*Rebel Youth*](/publication/rebel-youth) (2014). In addition, Milligan has co-authored [*Exploring Big Historical Data*](/publication/macroscope) (2015, with Shawn Graham and Scott Weingart) and edited the [*SAGE Handbook of Web History*](/publication/sage-handbook) (2018, with Niels Brügger).
+Ian Milligan's primary research focus is on how historians can use web archives, as well as the impact of digital sources on historical practice more generally. He is author of two monographs: [*History in the Age of Abundance*](/publication/history-in-the-age-of-abundance) (2019) and [*Rebel Youth*](/publication/rebel-youth) (2014). Milligan also co-authored [*Exploring Big Historical Data*](/publication/macroscope) (2015, with Shawn Graham and Scott Weingart) and edited the [*SAGE Handbook of Web History*](/publication/sage-handbook) (2018, with Niels Brügger).
 
 Milligan is principal investigator of the [Archives Unleashed project](https://archivesunleashed.org). In 2016, he was awarded the Canadian Society for Digital Humanities [Outstanding Early Career Award](http://csdh-schn.org/2016/02/09/csdhschn-2016-outstanding-early-career-award/) and in 2019 he received the Arts Excellence in Research award from the University of Waterloo. Milligan held an [Ontario Early Researcher Award](https://www.ontario.ca/page/early-researcher-awards) between 2015 and 2020.
 
