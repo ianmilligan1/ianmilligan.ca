@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of History, University of Waterloo
+role: Associate Professor of History
 
 # Organizations/Affiliations
 organizations:
