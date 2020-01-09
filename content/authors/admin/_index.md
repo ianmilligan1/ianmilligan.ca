@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of History
+role: Associate Professor of History, University of Waterloo
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research focus is on how historians can use web archives.
+bio: Exploring how technology is transforming historical research.
 
 interests:
 - Web archives and web history
