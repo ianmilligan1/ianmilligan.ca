@@ -66,7 +66,7 @@ slides: ""
 projects: []
 ---
 
-**Slidedeck link will available after talk.**
+**[Slides (PDF) available for download here](historians_craft.pdf).**
 
 The rise of the Web as a primary source will have deep implications for historians. It will affect our research — how we write and think about the past — and it will change how humanists and social scientists make sense of culture at scale. Scholars are entering an era when there will be more information than ever, left behind by people who rarely entered the historical record before. Web archives, repositories of archived websites dating back to 1996, will fundamentally transform scholarship, requiring a move towards computational methodologies and the digital humanities.
 
