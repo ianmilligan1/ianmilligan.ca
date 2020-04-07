@@ -34,7 +34,7 @@ When I've been on parental leave (twice), I've turned to breadmaking: it's the s
 
 With COVID-19 locking us all down for most of the day (we can still take walks around the block in Ontario, thank god), I've turned back to baking --- now with the help of my kids. I know I'm not alone, judging by my Twitter timeline (only about 5% bread, let's make it 20%) as well as the barren flour/yeast selections at my local grocery store.
 
-But, hey, as I now spend a fair bit of every day baking bread, why not share some of the recipies I've been using with a lot of success?
+But, hey, as I now spend a fair bit of every day baking bread, why not share some of the recipes I've been using with a lot of success?
 
 ## Getting Flour
 
@@ -42,7 +42,7 @@ But, hey, as I now spend a fair bit of every day baking bread, why not share som
 
 While clearly there's no shortage of flour in Canada (c'mon), there is a shortage of it at the grocery store as supply chains are strained by the rapid interest in home baking.
 
-Luckily, I tweeted about my first loaf and somebody mentioned a local stone mill in Fergus, Ontario (about a 30 minute drive from my house, although they deliver for free with an order over $75). One order later, and a 20kg bag of flour arrived. Now that I've used about half of it in the last three and a half-weeks of COVID-19 lockdown, the remainder doubles as a handy chair for my daugher to sit on.
+Luckily, I tweeted about my first loaf and somebody mentioned a local stone mill in Fergus, Ontario (about a 30 minute drive from my house, although they deliver for free with an order over $75). One order later, and a 20kg bag of flour arrived. Now that I've used about half of it in the last three and a half-weeks of COVID-19 lockdown, the remainder doubles as a handy chair for my daughter to sit on.
 
 Anyways, you can buy it from their [website here](https://1847.ca/).
 
@@ -79,7 +79,7 @@ Here's my starter:
 
 ### The Bread
 
-I then decided to try making my first sourdough using the [Rustic Sourdough Bread](https://www.kingarthurflour.com/recipes/rustic-sourdough-bread-recipe) recipie at King Arthur Flour. The first time I made it, it tasted okay, but didn't really rise as much as I wanted. While I wondered if that might be the stone-milled bread flour I was using, I also figured it was because I didn't really know how to "knead" bread, nor how to "shape it into a ball."
+I then decided to try making my first sourdough using the [Rustic Sourdough Bread](https://www.kingarthurflour.com/recipes/rustic-sourdough-bread-recipe) recipe at King Arthur Flour. The first time I made it, it tasted okay, but didn't really rise as much as I wanted. While I wondered if that might be the stone-milled bread flour I was using, I also figured it was because I didn't really know how to "knead" bread, nor how to "shape it into a ball."
 
 Fortunately, YouTube to the rescue. First, I watched a great video on how to [knead dough](https://www.youtube.com/watch?v=ySOj0fFWo1U) and then another on how to shape it (h/t to [Heather Steel](https://twitter.com/steelha1/status/1246540003586572295)):
 
