@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Archived blog posts pre-dating November 10th, 2019 can be found at <http://ianmilli.wordpress.com>.
+*Pre-November 2019 posts can be found at <http://ianmilli.wordpress.com>.*
