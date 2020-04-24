@@ -48,6 +48,8 @@ Anyways, you can buy it from their [website here](https://1847.ca/).
 
 ## No-Knead Bread
 
+![No-Knead bread](rustic.jpeg)
+
 When I've been on parental leave, I've basically made this on an every-other-day-basis. COVID-19, it turns out, is no different. You can find this recipie in a million different places, and I'm leery to attribute it to any one place as my own recipie comes from a family card. [But this is more or less what I use](https://pinchofyum.com/no-knead-bread).
 
 I've made it so many times it's just muscle memory. The night before (usually around 9pm), I combine this in a bowl and mix with a wooden spoon:
@@ -88,6 +90,10 @@ Fortunately, YouTube to the rescue. First, I watched a great video on how to [kn
 From these two videos alone, the results were top-notch. I might try doing a mixture of standard all-purpose and stone-milled bread flour next, but as it is, I'm pretty thrilled.
 
 ![Sourdough](sourdough.jpeg)
+
+**Edited to add: Turns out that extra kneading makes all the difference. After twelve minutes of kneading a loaf, here's what an all whole-wheat flour one ended up looking like:**
+
+![Sourdough success](featured.jpeg)
 
 ## Baguettes and Other Misses
 
