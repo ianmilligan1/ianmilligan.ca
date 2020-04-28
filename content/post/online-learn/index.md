@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Setting up an Online Course in LEARN"
+title: "Setting up an Online Course in LEARN: One Historian to Another"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-This is going to be an ever-evolving document, just to provide some tips and tricks to others working with LEARN at Waterloo to crash their history courses online.
+This is going to be an ever-evolving document, just to provide some tips and tricks to others working with LEARN at Waterloo to crash their history courses online. And, since it's easiest to just put stuff on my website, you can all benefit too – even if you're not a historian. I'm not judging.
 
 I had the good fortune to take intensive online teacher training in Winter 2018, and then to teach a fully-online course in Winter 2020. So I can share a few particular tips and tricks that made my life a lot easier when teaching this course. Note that I am aware that I'm not an expert on online teaching, just a practitioner, but I thought some thoughts from a faculty member might be helpful as we contemplate remote teaching in Summer and Fall 2020. The team at [Centre for Extended Learning](https://uwaterloo.ca/extended-learning/) is amazing, as are the great set of resources on Waterloo's [Keep Learning](https://uwaterloo.ca/keep-learning/) page. 
 
