@@ -36,19 +36,19 @@ The course was [HIST 216: A (Long) History of the Internet](https://uwaterloo.ca
 
 ## Content
 
-I'm not going to belabour content too much, as I had the advantage of an instructional design team to put the content together. If you're doing [emergency remote teaching](/post/caut-webinar/), I think you should try to leverage open content as much as possible – for example, if I was teaching Canadian history, I would be leveraging a lot of content from Belshaw's fantastic [_Post-Confederation_](https://opentextbc.ca/postconfederation/front-matter/about-the-book/) textbook. 
+I'm not going to belabour content too much, as I had the advantage of an instructional design team to put the content together. If you're doing [emergency remote teaching](/post/caut-webinar/), I think you should try to leverage open content as much as possible – for example, if I was teaching Canadian history, I would be using a lot of content from Belshaw's fantastic [_Post-Confederation_](https://opentextbc.ca/postconfederation/front-matter/about-the-book/) textbook. 
 
 In my course, content was _mostly_ delivered through text. I had a few videos, but none were more than five minutes (an introductory video to let the students know me, and then a few other short videos introducing modules). But most content looked a lot like:
 
 {{< figure src="content.png" title="A screenshot of content being delivered in a course" lightbox="true" >}}
 
-This was really the textual contnet of my lectures, turned into fancy beautiful prose and images by the developers at CEL. I like text because it's accessible and easily editable, but with a script, you could also provide it in alterante formats (I say with a script as you want to be able to serve your diverse body of students). 
+This was really the textual content of my lectures, turned into fancy beautiful prose and images by the developers at CEL. I like text because it's accessible and easily editable, but with a script, you could also provide it in alternate formats (I say with a script as you want to be able to serve your diverse body of students). 
 
 The trick, to me, was how to get students to really engage with this great content!
 
 ## Announcements
 
-{{< figure src="announcements.png" title="A screenshot of the annoucements in LEARN" lightbox="true" >}}
+{{< figure src="announcements.png" title="A screenshot of the announcements in LEARN" lightbox="true" >}}
 
 I use the announcements widget in LEARN quite a bit already, even when running an on-campus course. But in an online course, this was really important for me to make sure (a) students knew what was going on each week; (b) to anchor them to what's going on in the world around us; and to \(c) occasionally share a news article of interest. I try to use this relatively sparingly. Every week, at 9am on Monday, the "Module ahead" announcement would go out, and every week or two, I would also post something on Wednesday or Thursday. 
 
@@ -92,9 +92,9 @@ Some of the details on the setup included:
 
 ## Flexibility and Pivoting
 
-This is important. I learned the hard way, for example, that I needed to provide more information about how to use the Internet Archive's Wayback Machine thatn I had before. This is because when you're teaching in a classroom, you can monitor faces and do lots of on-the-fly instruction; less so when you're online.
+This is important. I learned the hard way, for example, that I needed to provide more information about how to use the Internet Archive's Wayback Machine than I had before. This is because when you're teaching in a classroom, you can monitor faces and do lots of on-the-fly instruction; less so when you're online.
 
-So I created this short YouTube video to help people out at one point becuase I felt like I was getting several good questions from students that required more than just e-mail help! 
+So I created this short YouTube video to help people out at one point because I felt like I was getting several good questions from students that required more than just e-mail help! 
 
 {{< youtube dJ-qW7_RlGg >}}
 <br/>
