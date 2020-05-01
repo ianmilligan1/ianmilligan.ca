@@ -32,7 +32,7 @@ My family had a "PowerPoint" party for my stepdad's birthday – each member of 
 
 This has, similarly, led to _a lot_ of thinking from _me_ on just how this wonderful universe works.
 
-So without further adieu, here's my contribution: **"The Economy of Adventure Bay." With apologies to scholars who actually work in this field.
+So without further adieu, here's my contribution: **"The Economy of Adventure Bay."** With apologies to scholars who actually work in this field.
 
 ![slide](Slide1.png)
 ![slide](Slide2.png)
