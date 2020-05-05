@@ -38,7 +38,7 @@ This year, like dozens of Canadian researchers, I'm serving on a SSHRC Insight D
 
 Scale this up by the 11 or 12 proposals that you need to read, and suddenly, you're working with 60 individual PDFs rather than just 12 nicely-packaged PDFs. As somebody who tends to move PDFs to my iPad to annotate there, this is a bit annoying.
 
-This isn't just a SSHRC problem, of course. Until a few years ago, when reviewing graduate admissions, we would get four of five PDFs per applicant.
+This isn't just a SSHRC problem, of course. Until a few years ago, when reviewing graduate admissions, we would get four or five PDFs per applicant.
 
 Bash to the rescue. This MacOS command will turn all of the above into a nice PDF for review:
 
