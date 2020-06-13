@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ianmilligan1
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ian-milligan-b9709213
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
