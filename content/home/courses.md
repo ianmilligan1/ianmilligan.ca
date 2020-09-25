@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Tri-University Graduate Program, University of Waterloo"
+  organization_url = "https://uwaterloo.ca/tri-university-history-graduate-program/"
+  title = "HIST 640: Digital History"
+  url = ""
+  certificate_url = "https://hist640.ianmilligan.ca"
+  date_start = "2021-01-01"
+  date_end = "2021-04-30"
+  description = "Digital history, the application of new and emerging technologies to the study of history, is an important field that has begun to reshape historical production and scholarship. This graduate level course introduces students to the literature on digital history, and then puts theory into practice by digitally collecting, publishing, and producing new historical knowledge with cutting-edge tools."
+
+[[item]]
   organization = "Global Governance Program, University of Waterloo"
   organization_url = "https://uwaterloo.ca/global-engagement-program/socio-cultural-and-political-implications-artificial"
   title = "ARTS 490: Socio-Cultural Implications of Artificial Intelligence"
@@ -31,10 +41,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of History, University of Waterloo"
   organization_url = "https://uwaterloo.ca/history/"
-  title = "HIST 216: A Long History of the Internet"
+  title = "HIST 216: A Long History of the Internet (Online)"
   certificate_url = "https://uwaterloo.ca/history/sites/ca.history/files/uploads/files/hist216_online_course_details.pdf"
-  date_start = "2020-05-11"
-  date_end = "2020-08-30"
-  description = "The Internet has enabled global connection on an unprecedented level. To live and innovate in a society dominated by network communications requires understanding from where we have come. Yet, as Google executives Eric Schmidt and Jared Cohen have noted, \"the Internet is among the few things humans have built that they don't totally understand.\" (Schmidt and Cohen)<br><br>While the technological story of the rise of the Internet and the Web today is important – our course touches on early computing, theories of hypertext, the ARPANET, and the networking revolutions of the 1980s and 1990s – the longer human story is equally critical. How has the concept of information evolved? How has print media emerged and evolved? How have humans communicated over time and space? How have common standards evolved, allowing people across the globe to communicate with each other?<br><br>*Previously taught Winter 2020, Fall 2018 and Winter 2018.*"
+  date_start = "2021-01-01"
+  date_end = "2021-04-30"
+  description = "The Internet has enabled global connection on an unprecedented level. To live and innovate in a society dominated by network communications requires understanding from where we have come. Yet, as Google executives Eric Schmidt and Jared Cohen have noted, \"the Internet is among the few things humans have built that they don't totally understand.\" (Schmidt and Cohen)<br><br>While the technological story of the rise of the Internet and the Web today is important – our course touches on early computing, theories of hypertext, the ARPANET, and the networking revolutions of the 1980s and 1990s – the longer human story is equally critical. How has the concept of information evolved? How has print media emerged and evolved? How have humans communicated over time and space? How have common standards evolved, allowing people across the globe to communicate with each other?<br><br>*Previously taught Spring 2020 (Online), Winter 2020 (Online), Fall 2018 and Winter 2018.*"
 
 +++
