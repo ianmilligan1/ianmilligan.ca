@@ -38,4 +38,4 @@ You can [read it here](https://academic.oup.com/ahr/article-abstract/125/4/1337/
 
 I also wrote a response, ["How Can We Be Ready to Study History in the Age of Abundance? A Response"](https://academic.oup.com/ahr/article/125/4/1347/5933597?guestAccessKey=0635fd30-0c60-4884-94f5-bbf81d50d883), which you can freely access using this link. 
 
-Needless to say, it was a complete honour – and the highlight of my career so far – to have my work engaged with my such a stellar array of colleagues. 
+Needless to say, it was a complete honour – and the highlight of my career so far – to have my work engaged with by such a stellar group of colleagues. 
