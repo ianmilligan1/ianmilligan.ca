@@ -88,8 +88,8 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "i2milligan@uwaterloo.ca"
-phone = "+1 519 888 4567, ext. 32775"
+email = "i2millig@uwaterloo.ca"
+phone = "+1 519 888 4567, ext. 42775"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -100,20 +100,21 @@ address = {street = "200 University Avenue West", city = "Waterloo", region = "O
 coordinates = {latitude = "43.467924", longitude = "-80.542179"}
 
 # Directions for visitors to locate you.
-directions = "My office is in Hagey Hall 114"
+directions = "Due to COVID, I am currently working from home"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Office hours by appointment."]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/i2millig/30min"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ian.e.milligan?call"},
-  ]
+contact_links = []
+#contact_links = [
+#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ian.e.milligan?call"},
+#  ]
 
 ############################
 ## Social
