@@ -10,7 +10,7 @@ address:
   region:
   postcode:
   country:
-summary: I explored the relationship between historians and born-digital primary sources between 1968 and 2003 as part of UCL/CESTA's great history of DH speaker series.
+summary: I was incredibly honoured to give a talk as part of a panel hosted by the Enoch Turner Schoolhouse Foundation on Does Liberal Education Matter in the 21st Century
 abstract: 
 
 # Talk start and end times.
