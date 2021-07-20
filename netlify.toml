@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/20*"
+  to = "https://ianmilli.wordpress.com/20:splat"
+  status = 301
+  force = true
