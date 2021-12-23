@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Vice-President of Research Oversight and Analysis
+role: Associate Vice-President of Research Oversight and Analysis (effective 1 January 2022)
   
 
   Associate Professor of History
