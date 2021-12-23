@@ -10,7 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of History
+role: Associate Vice-President of Research Oversight and Analysis
+  
+
+  Associate Professor of History
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +25,8 @@ bio: Exploring how technology is transforming historical research.
 
 interests:
 - Web archives and web history
-- Digital history and digital humanities
 - How technology is changing the historical profession
+- Research data management
 
 education:
   courses:
@@ -44,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:i2milligan@uwaterloo.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:i2millig@uwaterloo.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ianmilligan1
@@ -77,9 +80,12 @@ user_groups:
 ---
 
 ![University of Waterloo History Logo](/authors/admin/UWaterloo_ARTS_History_Logo_horiz_rgb.png)
-Ian Milligan is an associate professor of history at the University of Waterloo. His primary research focus is on how historians can use web archives, as well as the impact of digital sources on historical practice more generally. He is author of two monographs: [*History in the Age of Abundance*](/publication/history-in-the-age-of-abundance) (2019) and [*Rebel Youth*](/publication/rebel-youth) (2014). Milligan also co-authored [*Exploring Big Historical Data*](/publication/macroscope) (2015, with Shawn Graham and Scott Weingart) and edited the [*SAGE Handbook of Web History*](/publication/sage-handbook) (2018, with Niels Brügger).
 
-Milligan is principal investigator of the [Archives Unleashed project](https://archivesunleashed.org). In 2016, he was awarded the Canadian Society for Digital Humanities [Outstanding Early Career Award](http://csdh-schn.org/2016/02/09/csdhschn-2016-outstanding-early-career-award/) and in 2019 he received the Arts Excellence in Research award from the University of Waterloo. In 2020, recognizing his track record of research and advocacy, the Association of Canadian Archivists awarded Milligan the [Honourary Archivist Award](https://archivists.ca/Honours-and-Awards#honorary-archivist).
+Ian Milligan is Associate Vice-President of Research Oversight and Analysis at the [University of Waterloo](https://uwaterloo.ca) (effective 1 January 2022), where he also an associate professor of history. In his service role, Milligan provides campus leadership for research oversight and compliance, as well as helps to coordinate data management strategies and bibliometrics. 
+
+Milligan's primary research focus is on how historians can use web archives, as well as the impact of digital sources on historical practice more generally. He is author of two monographs: [*History in the Age of Abundance*](/publication/history-in-the-age-of-abundance) (2019) and [*Rebel Youth*](/publication/rebel-youth) (2014). Milligan also co-authored [*Exploring Big Historical Data*](/publication/macroscope) (2015, with Shawn Graham and Scott Weingart) and edited the [*SAGE Handbook of Web History*](/publication/sage-handbook) (2018, with Niels Brügger). Milligan is principal investigator of the [Archives Unleashed project](https://archivesunleashed.org). 
+
+In 2016, he was awarded the Canadian Society for Digital Humanities [Outstanding Early Career Award](http://csdh-schn.org/2016/02/09/csdhschn-2016-outstanding-early-career-award/) and in 2019 he received the Arts Excellence in Research award from the University of Waterloo. In 2020, recognizing his track record of research and advocacy, the Association of Canadian Archivists awarded Milligan the [Honourary Archivist Award](https://archivists.ca/Honours-and-Awards#honorary-archivist).
 
 Milligan is currently co-editor of [*Internet Histories*](https://www.tandfonline.com/toc/rint20/current) and was a co-program chair of the [ACM/IEEE Joint Conference on Digital Libraries](https://2017.jcdl.org/). He has an extensive interdisciplinary service record, sitting on selection committees for multiple granting agencies as well as sitting on the steering committee for the ACM/IEEE Joint Conference on Digital Libraries. At Waterloo, Milligan is an elected faculty representative on both the University Senate (two terms; 2018–2021 and 2021–2024) and the Board of Governors (two terms; 2020-2021 and 2021-2023).
 

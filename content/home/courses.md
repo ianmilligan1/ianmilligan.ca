@@ -48,3 +48,5 @@ date_format = "Jan 2006"
   description = "The Internet has enabled global connection on an unprecedented level. To live and innovate in a society dominated by network communications requires understanding from where we have come. Yet, as Google executives Eric Schmidt and Jared Cohen have noted, \"the Internet is among the few things humans have built that they don't totally understand.\" (Schmidt and Cohen)<br><br>While the technological story of the rise of the Internet and the Web today is important – our course touches on early computing, theories of hypertext, the ARPANET, and the networking revolutions of the 1980s and 1990s – the longer human story is equally critical. How has the concept of information evolved? How has print media emerged and evolved? How have humans communicated over time and space? How have common standards evolved, allowing people across the globe to communicate with each other?<br><br>*Previously taught Spring 2020 (Online), Winter 2020 (Online), Fall 2018 and Winter 2018.*"
 
 +++
+
+Due to my appointment as Associate Vice-President, Research Oversight and Analysis, I am not currently teaching.
