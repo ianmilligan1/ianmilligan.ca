@@ -13,7 +13,7 @@ superuser: true
 role: Associate Vice-President, Research Oversight and Analysis
   
 
-  Associate Professor of History
+  Professor of History
 
 # Organizations/Affiliations
 organizations:
@@ -81,7 +81,7 @@ user_groups:
 
 ![University of Waterloo History Logo](/authors/admin/UWaterloo_ARTS_History_Logo_horiz_rgb.png)
 
-Ian Milligan is Associate Vice-President, Research Oversight and Analysis at the [University of Waterloo](https://uwaterloo.ca), where he is also an [associate professor of history](https://uwaterloo.ca/history/people-profiles/ian-milligan). In his service role, Milligan provides campus leadership for research oversight and compliance, as well as helps to coordinate data management strategies and bibliometrics. 
+Ian Milligan is Associate Vice-President, Research Oversight and Analysis at the [University of Waterloo](https://uwaterloo.ca), where he is also [professor of history](https://uwaterloo.ca/history/people-profiles/ian-milligan). In his service role, Milligan provides campus leadership for research oversight and compliance, as well as helps to coordinate data management strategies and bibliometrics. 
 
 Milligan's primary research focus is on how historians can use web archives, as well as the impact of digital sources on historical practice more generally. He is author of two monographs: [*History in the Age of Abundance*](/publication/history-in-the-age-of-abundance) (2019) and [*Rebel Youth*](/publication/rebel-youth) (2014). Milligan also co-authored [*Exploring Big Historical Data*](/publication/macroscope) (2015, with Shawn Graham and Scott Weingart) and edited the [*SAGE Handbook of Web History*](/publication/sage-handbook) (2018, with Niels Brügger). Milligan is principal investigator of the [Archives Unleashed project](https://archivesunleashed.org). 
 
