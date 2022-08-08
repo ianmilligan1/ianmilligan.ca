@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Transformation of Historical Research in the Digital Age (Coming Soon!)"
+title: "The Transformation of Historical Research in the Digital Age"
 authors: ["Ian Milligan"]
-date: 2022-09-01
+date: 2022-08-05
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,22 +36,22 @@ links:
    url: https://www.cambridge.org/core/elements/transformation-of-historical-research-in-the-digital-age/30DFBEAA3B753370946B7A98045CFEF4
    icon_pack: fa
    icon: book
-# - name: Amazon.ca
-#   url: https://www.amazon.ca/History-Age-Abundance-Transforming-Historical/dp/0773556974
-#   icon_pack: fab
-#   icon: amazon
-# - name: Amazon.com
-#   url: https://www.amazon.com/History-Age-Abundance-Transforming-Historical-dp-0773556974/dp/0773556974/ref=mt_paperback?_encoding=UTF8&me=&qid=
-#   icon_pack: fab
-#   icon: amazon
-# - name: Google Books
-#   url: https://books.google.ca/books/about/History_in_the_Age_of_Abundance.html?id=lR3MvQEACAAJ&redir_esc=y
-#   icon_pack: fab
-#   icon: google
-# - name: Goodreads
-#   url: https://www.goodreads.com/book/show/42682653-history-in-the-age-of-abundance
-#   icon_pack: fab
-#   icon: goodreads
+ - name: Amazon.ca
+   url: https://www.amazon.ca/Transformation-Historical-Research-Digital-Age/dp/1009012525/ref=sr_1_1?crid=2Z4F0T0EP5QRW&keywords=transformation+of+historical+research&qid=1659966798&sprefix=transformation+of+historical+research%2Caps%2C60&sr=8-1
+   icon_pack: fab
+   icon: amazon
+ - name: Amazon.com
+   url: https://www.amazon.com/Transformation-Historical-Research-Elements-Practice/dp/1009012525/ref=sr_1_1?crid=389TKC52X3WLX&keywords=transformation+of+historical+research+digital+age&qid=1659966821&sprefix=transformation+of+historical+research+digital+age%2Caps%2C48&sr=8-1
+   icon_pack: fab
+   icon: amazon
+ - name: Google Books
+   url: https://www.google.ca/books/edition/The_Transformation_of_Historical_Researc/_QY1zwEACAAJ?hl=en
+   icon_pack: fab
+   icon: google
+ - name: Goodreads
+   url: https://www.goodreads.com/book/show/61234248-the-transformation-of-historical-research-in-the-digital-age
+   icon_pack: fab
+   icon: goodreads
 
 url_pdf:
 url_code:
