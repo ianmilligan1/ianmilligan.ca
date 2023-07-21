@@ -100,7 +100,7 @@ address = {street = "East Campus 5, 200 University Avenue West", city = "Waterlo
 coordinates = {latitude = "43.47549", longitude = "-80.54074"}
 
 # Directions for visitors to locate you.
-directions = "Due to COVID, I am currently working from home"
+directions = "I am almost always on campus. E-mail me to set up an appointment."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
