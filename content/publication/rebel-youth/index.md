@@ -21,18 +21,30 @@ publication_short: ""
 
 abstract: "During the “long sixties” — between 1964 and 1973 — baby boomers raised on democratic post-war ideals demanded a more egalitarian society for all. While a few became vocal leaders at universities across Canada, nearly 90% of Canada’s young people went straight to work after high school. There, they brought the anti-authoritarian spirit of the youth revolt to the labour movement.<br><br>
 
+
 While university-based activists combined youth culture with a new brand of radicalism to form the New Left, young workers were pressing for wildcat strikes and defying their aging union leaders in a wave of renewed militancy that swept the country. In Rebel Youth, Ian Milligan looks at these converging currents, demonstrating convincingly how they were part of a single youth phenomenon. With no fewer than seventy interviews complementing the extensive use of archival records, this book reveals a youth current that, despite regional differences, spanned an intellectual network from Halifax to Victoria that read the same publications, consulted the same thinkers, and found inspiration in the same shared ideas.<br><br>
+
 
 Rebel Youth draws important connections between the stories of young workers and the youth movement in Canada, claiming a central place for labour and class in the legacy of this formative decade.<br><br>
 
+
 **Table of Contents:**<br><br>
+
+
 - Introduction<br>
+
 - 1. The Challenge of Rebel Youth<br>
+
 - 2. Punching In, Walking Out: The Challenge of Young Workers<br>
+
 - 3. Say Goodbye to the Working Class? New Leftists Debate Social Change<br>
+
 - 4. Leaving Campus: The Realization of an Outward-Looking New Left in Ontario, British Columbia, and Saskatchewan<br>
+
 - 5. Cold, Slogging Solidarity: Supporting Labour on Picket Lines in Ontario and Nova Scotia, 1968-72<br>
+
 - 6. A Relationship Culminates: The 1973 Artistic Woodwork<br>
+
 - Conclusion<br>
 
 "

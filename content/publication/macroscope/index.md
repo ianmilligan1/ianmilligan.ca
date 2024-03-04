@@ -21,21 +21,35 @@ publication_short: ""
 
 abstract: "We believe that the Digital Humanities is partly about understanding what digital tools have to offer, but also (and perhaps more importantly), what ‘digital’ does to how we understand the past, and ourselves. In Exploring Big Historical Data, we peel back the layers of a particular approach to big data using topic modeling and network analysis. These techniques, which are growing in popularity in the humanities, need to be examined critically as they have been ported from divergent disciplines and domains.<br><br>
 
+
 We further provocatively argue that if historians are to continue as leaders in understanding the social and cultural past, a shift in training and standards is required. The digital turn has generated a plethora of born-digital and digitized sources, offering both challenges and exciting new avenues of inquiry. Using computational approaches like social network analysis and text mining enables new explorations of historical cultures and larger scale synthetic understandings of the past.<br><br>
+
 
 The Digital Humanities have flourished at a moment when digital big data is becoming easily available. Yet there is a gap in the scholarly literature on the ways these data can be explored to construct cultural heritage knowledge, for both research and in our teaching and learning. We are on the cusp of needing to grasp big data approaches to do our work, whether it’s understanding the underlying algorithms at work in our search engines, or needing to design and use our own tools to process comparatively large amounts of information. This book fills that gap, and in its live-writing approach, will set the direction for the conversation into the future.<br><br>
 
+
 We titled this book Exploring Big Historical Data: The Historian’s Macroscope to suggest both a tool and a perspective. We are not implying that this is the way historians will ‘do’ history when it comes to big data; rather, it is but one piece of the toolkit, one more way of dealing with ‘big’ amounts of data that historians are now having to grapple with. What is more, a ‘macroscope’, a tool for looking at the very big, deliberately suggests a scientist’s workbench, where the investigator moves between different tools for exploring different scales, keeping notes in a lab notebook. Similarly, an approach to big data for the historian (we argue) needs to be a public approach, with the historian keeping an open notebook so that others may explore the same paths through the information, while possibly reaching very different conclusions. This is a generative approach: big data for the humanities is not only about justifying a story about the past, but generating new stories, new perspectives, given our new vantage points and tools.<br><br>
 
+
 **Table of Contents**:<br>
+
+
 - Preface<br>
+
 - Chapter 1: The Joys of Big Data For Historians<br>
+
 - Chapter 2: The DH Moment<br>
+
 - Chapter 3: Data Mining Tools: Techniques, and Visualizations<br>
+
 - Chapter 4: Topic Modeling: A Hands-On Adventure in Big Data<br>
+
 - Chapter 5: Making Your Data Look Pretty: Visualizations<br>
+
 - Chapter 6: Networks Analysis<br>
+
 - Chapter 7: Networks in Practice<br>
+
 - Conclusion<br>
 
 "

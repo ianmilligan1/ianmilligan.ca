@@ -21,19 +21,37 @@ publication_short: ""
 
 abstract: "Believe it or not, the 1990s are history. As historians turn to study this period and beyond, they will encounter a historical record that is radically different from what has ever existed before. Old websites, social media, blogs, photographs, and videos are all part of the massive quantities of digital information that technologists, librarians, archivists, and organizations such as the Internet Archive have been collecting for the past three decades.<br><br>
 
+
 In *History in the Age of Abundance?* Ian Milligan argues that web-based historical sources and their archives present extraordinary opportunities as well as daunting technical and ethical challenges for historians. Through case studies, he outlines the approaches, methods, tools, and search functions that can help a historian turn web documents into historical sources. He also considers the implications of the size and scale of digital sources, which amount to more information than historians have ever had at their fingertips, and many of which are by and about people who have traditionally been absent from the historical record. Scrutinizing the concept of the web and the mechanics of its archives, Milligan explains how these new media challenge, reshape, and enrich both the historical profession and the historical record.<br><br>
+
 
 A wake-up call for historians of the twenty-first century, History in the Age of Abundance? is an essential introduction to the way web archives work, what possibilities they open up, what risks they entail, and what the shift to digital information means for historians, their professional training and organization, and society as a whole.<br><br>
 
+
 **Table of Contents:**<br><br>
 
+
 - Introduction<br>
+
+
 - Ch. 1: Exploding the Library<br>
+
+
 - Ch. 2: Web Archives and their Collectors<br>
+
+
 - Ch. 3: Accessing the Record of Our Lives<br>
+
+
 - Ch. 4: Unexpected Needles in BigHaystacks<br>
+
+
 - Ch. 5: Welcome to GeoCities, Population Seven Million<br>
+
+
 - Ch. 6: The (Practical) Historian in the Age of Big Data<br>
+
+
 - Conclusion
 
 "
