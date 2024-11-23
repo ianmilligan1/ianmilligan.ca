@@ -80,6 +80,18 @@ links:
    url: https://www.goodreads.com/book/show/208283384-averting-the-digital-dark-age
    icon_pack: fab
    icon: goodreads
+ - name: Amazon.ca
+   url: https://www.amazon.ca/Averting-Digital-Dark-Age-Technologists/dp/1421450135
+   icon_pack: fab
+   icon: amazon
+ - name: Amazon.com
+   url: https://www.amazon.com/Averting-Digital-Dark-Age-Technologists/dp/1421450135/ref=sr_1_1?crid=SRN391KVJFEE&dib=eyJ2IjoiMSJ9.LcAgdqXFokdKYmGwCxeOJQ.JJ0R690P8RQWJn8OmPVlwpqiVVfBIwRz8w9MQmVHNaE&dib_tag=se&keywords=%22Averting+the+digital+dark+AGe%22&qid=1732397007&sprefix=averting+the+digital+dark+age+%2Caps%2C111&sr=8-1
+   icon_pack: fab
+   icon: amazon
+ - name: Google Books
+   url: https://books.google.ca/books/about/Averting_the_Digital_Dark_Age.html?id=rVf9EAAAQBAJ&redir_esc=y
+   icon_pack: fab
+   icon: google
 
 url_pdf:
 url_code:
