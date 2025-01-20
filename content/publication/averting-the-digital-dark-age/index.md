@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Averting the Digital Dark Age: How Archivists, Librarians, and Technologists Built the Web a Memory (forthcoming)"
+title: "Averting the Digital Dark Age: How Archivists, Librarians, and Technologists Built the Web a Memory"
 authors: ["Ian Milligan"]
 date: 2024-12-10
 doi: ""
@@ -36,6 +36,7 @@ Acknowledgements
 
 
 Introduction
+
 
 1. Why the Web Could Be Saved: From Machine-Readable Records to Digital Preservation
 
