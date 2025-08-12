@@ -1,0 +1,51 @@
+podcasts:
+  - title: "Averting the Digital Dark Age"
+    outlet: "New Books Network"
+    year: 2024
+    url: "https://newbooksnetwork.com/averting-the-digital-dark-age"
+  - title: "Ian Milligan Discusses His Book 'History in the Age of Abundance?'"
+    outlet: "AHR Interview (American Historical Review)"
+    year: 2020
+    url: "https://directory.libsyn.com/episode/index/show/ahrinterview/id/16060028"
+  - title: "The Web’s Fragile Memory: Ian Milligan on Digital Preservation"
+    outlet: "The Tattooed Historian Show"
+    year: 2025
+    url: "https://open.spotify.com/episode/42Ee4pSz1qVWzf8GVFxXf3"
+  - title: "Averting the Digital Dark Age (with Brewster Kahle & Ian Milligan)"
+    outlet: "Future Knowledge (Internet Archive)"
+    year: 2025
+    url: "https://futureknowledge.transistor.fm/episodes/averting-the-digital-dark-age"
+  - title: "Introducing the History Slam Podcast: First Episode (with Ian Milligan)"
+    outlet: "History Slam (ActiveHistory.ca)"
+    year: 2012
+    url: "http://activehistory.ca/wp-content/uploads/2012/07/History-Slam-Premier-Edition.mp3"
+  - title: "History Slam 10th Anniversary Special: Life as Historians (segment with Ian Milligan)"
+    outlet: "History Slam (ActiveHistory.ca)"
+    year: 2022
+    url: "http://activehistory.ca/wp-content/uploads/2022/07/History-Slam-221.mp3"
+
+videos:
+  - title: "The Undoing of History"
+    outlet: "TVO – The Agenda with Steve Paikin"
+    year: 2021
+    url: "https://www.tvo.org/video/the-undoing-of-history"
+  - title: "You shouldn’t need to be a web historian to use web archives (WARCnet Keynote)"
+    outlet: "WARCnet"
+    year: 2020
+    url: "https://www.youtube.com/watch?v=Y7Qv_QgCC9g"
+  - title: "Averting the Digital Dark Age (IIPC WAC 2024 talk)"
+    outlet: "IIPC Web Archiving Conference"
+    year: 2024
+    url: "https://www.youtube.com/watch?v=ewuzdQHyPEs"
+  - title: "Ian Milligan on the Usage of Web Archives in Research"
+    outlet: "Internet Archive – Community Webs"
+    year: 2019
+    url: "https://archive.org/details/M5IanMilligan"
+  - title: "Are we all Digital Historians now? Technology and Historical Practice (Nugent Lecture)"
+    outlet: "Queen’s University"
+    year: 2021
+    url: "https://www.youtube.com/watch?v=aZMRNsWECOI"
+  - title: "Digitized Newspapers as Everyday Interdisciplinarity (Keynote Panel)"
+    outlet: "NewsEye 2021"
+    year: 2021
+    url: "https://www.youtube.com/watch?v=pyHATsXGdxQ"

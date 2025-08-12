@@ -1,7 +1,51 @@
-# Academic Website Builder
-# https://sourcethemes.com/academic/
-#
-# The presence of this file is for compatibility with Blogdown and Forestry.
-# If you are not using those tools, this file may be deleted.
-#
-# The actual configuration files are stored in the `config/_default/` folder.
+baseURL = "/"
+languageCode = "en-us"
+title = "Ian Milligan"
+# theme = ""  # using layouts/ directly
+disableKinds = ["taxonomy", "term"]
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Historian of the Digital Age. Author of *Averting the Digital Dark Age*."
+  name = "Ian Milligan"
+  role = "Professor of History"
+  affiliation = "University of Waterloo"
+  hero_tagline = "Historian of the Digital Age"
+  hero_highlight = "Author of Averting the Digital Dark Age (JHU Press, 2024)."
+  hero_image = "images/milligan.jpg" # replace with your portrait, e.g. images/ian.jpg
+  email = "i2millig@uwaterloo.ca"
+  phone = "+1 519 888 4567 ext. 42775"
+  address = "East Campus 5, 200 University Ave W, Waterloo, ON N2L 3G1"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Books"
+    url = "/books/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Articles"
+    url = "/articles/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Media"
+    url = "/media/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6

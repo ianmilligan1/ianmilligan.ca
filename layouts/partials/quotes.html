@@ -1,0 +1,10 @@
+{{ with site.Data.quotes }}
+<section class="quotes container">
+  {{ range . }}
+    <blockquote>
+      <p>“{{ .quote }}”</p>
+      <cite>{{ .source }}</cite>
+    </blockquote>
+  {{ end }}
+</section>
+{{ end }}

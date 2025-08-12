@@ -1,0 +1,12 @@
+<section class="hero">
+  <div class="hero-grid container">
+    <div class="hero-text">
+      <h1 class="hero-title">{{ upper .Site.Params.name }}</h1>
+      <p class="hero-kicker">{{ .Site.Params.hero_tagline }}</p>
+      <p class="hero-sub">{{ .Site.Params.hero_highlight }}</p>
+    </div>
+    <div class="hero-image">
+      <img src="{{ .Site.Params.hero_image | relURL }}" alt="{{ .Site.Params.name }} portrait">
+    </div>
+  </div>
+</section>

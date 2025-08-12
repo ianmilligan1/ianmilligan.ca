@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="container">
+  <h1>{{ .Title }}</h1>
+  {{ with site.Data.media }}
+    {{ with .podcasts }}
+      <h2>Podcasts / Radio</h2>
+      <ul class="link-list">
+        {{ range . }}
+          <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a><span class="muted"> · {{ .outlet }} · {{ .year }}</span></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    {{ with .videos }}
+      <h2>Videos</h2>
+      <ul class="link-list">
+        {{ range . }}
+          <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a><span class="muted"> · {{ .outlet }} · {{ .year }}</span></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+</section>
+{{ end }}

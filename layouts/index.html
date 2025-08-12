@@ -1,0 +1,14 @@
+{{ define "main" }}
+  {{ partial "hero.html" . }}
+  {{ partial "quotes.html" . }}
+
+  <section class="about-snippet container">
+    <h2>About Ian</h2>
+    {{ with site.GetPage "section" "about" }}
+      {{ .Content }}
+    {{ end }}
+    <p><a class="button" href="{{ "/about/" | relURL }}">Read more</a></p>
+  </section>
+
+  {{ partial "books-grid.html" . }}
+{{ end }}

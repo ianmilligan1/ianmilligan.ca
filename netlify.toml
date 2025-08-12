@@ -1,13 +1,17 @@
+# netlify.toml
+
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.59.1"
+  HUGO_VERSION = "0.148.2"
+  HUGO_EXTENDED = "true"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_ENVIRONMENT = "production"   # Hugo reads this; HUGO_ENV is legacy
 
 [context.production.environment]
-  HUGO_ENV = "production"
+  HUGO_ENVIRONMENT = "production"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
@@ -15,6 +19,7 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# Helpful content-types (keep your existing ones)
 [[headers]]
   for = "*.webmanifest"
   [headers.values]
@@ -25,6 +30,7 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
+# Keep your legacy blog redirect (leave as-is if it already works)
 [[redirects]]
   from = "/20*"
   to = "https://ianmilli.wordpress.com/20:splat"

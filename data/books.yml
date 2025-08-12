@@ -1,0 +1,49 @@
+- title: "Averting the Digital Dark Age"
+  subtitle: "How Archivists, Librarians, and Technologists Built the Web a Memory"
+  year: 2024
+  publisher: "Johns Hopkins University Press"
+  cover: "images/books/averting.jpg"  # drop the cover image here
+  links:
+    - label: "Publisher (OPEN ACCESS)"
+      url: "https://www.press.jhu.edu/books/title/13049/averting-digital-dark-age"
+    - label: "Amazon.com"
+      url: "https://www.amazon.com/Averting-Digital-Dark-Age-Technologists/dp/1421450135/ref=sr_1_1?crid=SRN391KVJFEE&dib=eyJ2IjoiMSJ9.LcAgdqXFokdKYmGwCxeOJQ.JJ0R690P8RQWJn8OmPVlwpqiVVfBIwRz8w9MQmVHNaE&dib_tag=se&keywords=%22Averting+the+digital+dark+AGe%22&qid=1732397007&sprefix=averting+the+digital+dark+age+%2Caps%2C111&sr=8-1"
+    - label: "Amazon.ca"
+      url: https://www.amazon.ca/Averting-Digital-Dark-Age-Technologists/dp/1421450135    
+- title: "The Transformation of Historical Research in the Digital Age"
+  year: 2022
+  publisher: "Cambridge University Press"
+  cover: "images/books/transformation.png"
+  links:
+    - label: "Publisher (OPEN ACCESS)"
+      url: "https://www.cambridge.org/core/elements/transformation-of-historical-research-in-the-digital-age/30DFBEAA3B753370946B7A98045CFEF4"
+    - label: "Amazon.ca"
+      url: "https://www.amazon.ca/Transformation-Historical-Research-Digital-Age/dp/1009012525/ref=sr_1_1?crid=2Z4F0T0EP5QRW&keywords=transformation+of+historical+research&qid=1659966798&sprefix=transformation+of+historical+research%2Caps%2C60&sr=8-1"
+- title: "History in the Age of Abundance"
+  year: 2019
+  publisher: "McGill-Queen’s University Press"
+  subtitle: "How the Web is Transforming Historical Research"
+  cover: "images/books/abundance.jpg"
+  links:
+    - label: "MQUP"
+      url: "hhttps://www.mqup.ca/history-in-the-age-of-abundance--products-9780773556973.php?page_id=46&"
+    - label: "Amazon.ca"
+      url: "https://www.amazon.ca/History-Age-Abundance-Transforming-Historical/dp/0773556974"
+- title: "SAGE Handbook of Web History (ed.)"
+  subtitle: Co-edited with Niels Brügger.
+  year: 2018
+  publisher: "SAGE"
+  cover: "images/books/sage_handbook.png"
+  links:
+    - label: "SAGE"
+      url: "http://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-web-history/book252251"
+    - label: "Amazon.ca"
+      url: "https://www.amazon.ca/SAGE-HANDBOOK-WEB-HISTO-RY/dp/1473980054"
+- title: "Exploring Big Historical Data: The Historian’s Macroscope, 2nd Edition"
+  subtitle: Co-authored with Shawn Graham, Ian Milligan, Kim Arnold, and Scott Weingart.
+  year: 2022
+  publisher: "World Scientific Press"
+  cover: "images/books/macroscope.jpg"
+  links:
+    - label: "World Scientific"
+      url: "https://www.worldscientific.com/worldscibooks/10.1142/12435?srsltid=AfmBOopskOO2_S-ulicP_vKYuDRP3VYtNrBHUT3kMQ7xaSRw5wLAt6co#t=aboutBook"

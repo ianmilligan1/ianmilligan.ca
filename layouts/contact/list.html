@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="container prose">
+  <h1>{{ .Title }}</h1>
+  <p>For speaking and media, please reach out.</p>
+  <ul>
+    <li>Email: <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+    {{ with .Site.Params.phone }}<li>Phone: {{ . }}</li>{{ end }}
+    {{ with .Site.Params.address }}<li>Address: {{ . }}</li>{{ end }}
+  </ul>
+</section>
+{{ end }}

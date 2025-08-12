@@ -1,0 +1,32 @@
+{{ with site.Data.books }}
+<section class="books container">
+  <h2>Books</h2>
+  <div class="card-grid">
+    {{ range . }}
+      {{ $book := . }}
+      <article class="card">
+        <div class="cover">
+          {{ with $book.cover }}
+            <img src="{{ . | relURL }}" alt="Cover for {{ $book.title }}">
+          {{ end }}
+        </div>
+        <div class="card-body">
+          <h3 class="card-title">{{ $book.title }}</h3>
+          {{ with $book.subtitle }}<p class="muted">{{ . }}</p>{{ end }}
+          <p class="meta">
+            {{ with $book.publisher }}{{ . }}, {{ end }}
+            {{ with $book.year }}{{ . }}{{ end }}
+          </p>
+          {{ with $book.links }}
+            <div class="links">
+              {{ range . }}
+                <a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+              {{ end }}
+            </div>
+          {{ end }}
+        </div>
+      </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
