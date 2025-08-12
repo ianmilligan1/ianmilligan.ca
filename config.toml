@@ -10,6 +10,7 @@ disableKinds = ["taxonomy", "term"]
 [params]
   description = "Historian of the Digital Age. Author of *Averting the Digital Dark Age*."
   name = "Ian Milligan"
+  postnominal = "FRHistS"  # leave blank to hide
   role = "Professor of History"
   affiliation = "University of Waterloo"
   hero_tagline = "Historian of the Digital Age"

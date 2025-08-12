@@ -9,136 +9,103 @@
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
-  <header class="im-header" role="banner" aria-label="Site header">
-  <div class="im-header__inner">
-    <a class="im-brand" href="/">Ian Milligan</a>
+  
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<nav class="navbar navbar-expand-md navbar-light bg-body border-bottom sticky-top" role="navigation" aria-label="Primary">
+  <div class="container-xxl">
+    <a class="navbar-brand fw-bold" href="/">Ian Milligan</a>
 
     
-    <input id="im-navtoggle" type="checkbox" class="im-toggle" aria-label="Toggle menu">
-    <label for="im-navtoggle" class="im-burger">
-      <span class="im-burger__icon" aria-hidden="true"></span>
-      <span class="sr-only">Menu</span>
-    </label>
+    <button class="navbar-toggler" type="button"
+            data-bs-toggle="collapse" data-bs-target="#mainNav"
+            aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <nav class="im-menu" aria-label="Primary">
-      <ul class="im-nav">
-          <li>
-            <a href="/"aria-current="page">
+    
+    <div id="mainNav" class="collapse navbar-collapse">
+      <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link active"
+               href="/">
               Home
             </a>
           </li>
-          <li>
-            <a href="/about/">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/about/">
               About
             </a>
           </li>
-          <li>
-            <a href="/books/">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/books/">
               Books
             </a>
           </li>
-          <li>
-            <a href="/articles/">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/articles/">
               Articles
             </a>
           </li>
-          <li>
-            <a href="/media/">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/media/">
               Media
             </a>
           </li>
-          <li>
-            <a href="/keynotes/">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/keynotes/">
               Keynotes
             </a>
           </li>
-          <li>
-            <a href="/funding/">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/funding/">
               Funding
             </a>
           </li>
-          <li>
-            <a href="/contact/">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/contact/">
               Contact
             </a>
           </li>
       </ul>
-    </nav>
+    </div>
   </div>
+</nav>
 
-  <style>
-     
-    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 
-     
-    .im-header__inner{
-      max-width:72rem;margin:0 auto;padding:.75rem 1rem;
-      display:flex;align-items:center;justify-content:space-between;gap:1rem
-    }
-    .im-brand{font-weight:700;text-decoration:none}
+<style>
+  .nav-link.active { font-weight: 600; }
+</style>
 
-     
-    .im-nav{display:flex;gap:1rem;margin:0;padding:0;list-style:none}
-    .im-nav a{
-      display:block;padding:.5rem .75rem;border-radius:.6rem;text-decoration:none;
-      border:1px solid rgba(0,0,0,.18);
-      border:1px solid color-mix(in oklab, CanvasText 18%, transparent);
-    }
-    .im-nav a[aria-current="page"]{
-      font-weight:600;
-      background: rgba(0,0,0,.06);
-      background: color-mix(in oklab, CanvasText 6%, transparent);
-    }
 
-     
-    .im-toggle{display:none}
-    .im-burger{
-      display:none;line-height:0;cursor:pointer;background:transparent;
-      border:1px solid rgba(0,0,0,.20);
-      border:1px solid color-mix(in oklab, CanvasText 20%, transparent);
-      padding:.5rem;border-radius:.6rem
-    }
-    .im-burger__icon,
-    .im-burger__icon::before,
-    .im-burger__icon::after{
-      content:"";display:block;width:22px;height:2px;background:currentColor;border-radius:2px;
-      transition:transform .18s ease, opacity .18s ease, background .18s ease
-    }
-    .im-burger__icon{position:relative}
-    .im-burger__icon::before{position:absolute;left:0;transform:translateY(-6px)}
-    .im-burger__icon::after {position:absolute;left:0;transform:translateY(6px)}
-
-     
-    @media (max-width:768px){
-      .im-burger{display:inline-flex;align-items:center;justify-content:center}
-      .im-menu{display:none;width:100%}
-      #im-navtoggle:checked ~ .im-menu{display:block}
-      .im-nav{display:grid;gap:.5rem;margin-top:.5rem}
-
-       
-      #im-navtoggle:checked + .im-burger .im-burger__icon{background:transparent}
-      #im-navtoggle:checked + .im-burger .im-burger__icon::before{transform:rotate(45deg)}
-      #im-navtoggle:checked + .im-burger .im-burger__icon::after {transform:rotate(-45deg)}
-    }
-
-     
-    @media (min-width:769px){ .im-menu{display:block} }
-
-     
-    @media (prefers-color-scheme: dark){
-      .im-nav a[aria-current="page"]{
-        background: color-mix(in oklab, Canvas 86%, CanvasText 0%);
-      }
-    }
-  </style>
-</header>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
   <main class="container">
     
   <section class="hero">
   <div class="hero-grid container">
     <div class="hero-text">
-      <h1 class="hero-title">IAN MILLIGAN</h1>
-      <p class="hero-kicker">Historian of the Digital Age</p>
+
+<h1 class="hero-title">
+  IAN MILLIGAN<span aria-hidden="true">,</span><abbr class="postnominal" title="Fellow of the Royal Historical Society">FRHistS</abbr>
+</h1>
+
+<style>
+   
+  .hero-title .postnominal{
+    font-size:.42em; font-weight:500; opacity:.8;
+    white-space:nowrap; letter-spacing:.02em; vertical-align:.12em;
+     
+  }
+</style>
+
+<p class="hero-kicker">Historian of the Digital Age</p>
       <p class="hero-sub">Author of Averting the Digital Dark Age (JHU Press, 2024).</p>
     </div>
     <div class="hero-image">
@@ -178,7 +145,6 @@
 
   
 <section class="books container">
-  <h2>Books</h2>
   <div class="card-grid">
     
       
