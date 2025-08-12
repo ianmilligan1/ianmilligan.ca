@@ -69,3 +69,29 @@ blockquote cite{font-style:normal; color:var(--muted)}
   .hero-grid{grid-template-columns:1fr}
   .footer-grid{grid-template-columns:1fr}
 }
+
+.im-header__inner{
+  max-width:72rem;margin:0 auto;padding:.75rem 1rem;
+  display:flex;align-items:center;justify-content:space-between;gap:1rem;
+}
+.im-brand{font-weight:700;text-decoration:none;}
+.im-nav{display:flex;gap:1rem;margin:0;padding:0;list-style:none;}
+.im-nav a{display:block;padding:.5rem .75rem;border-radius:.6rem;text-decoration:none;
+  border:1px solid color-mix(in oklab, CanvasText 18%, transparent);
+}
+
+/* Mobile */
+.im-toggle{display:none;}
+.im-burger{display:none;border:1px solid color-mix(in oklab, CanvasText 20%, transparent);
+  padding:.5rem .75rem;border-radius:.6rem;cursor:pointer;background:transparent;}
+@media (max-width:768px){
+  .im-burger{display:inline-flex;align-items:center;}
+  .im-menu{display:none;width:100%;}
+  .im-toggle:checked ~ .im-menu{display:block;}
+  .im-nav{display:grid;gap:.5rem;margin-top:.5rem;}
+}
+
+/* Desktop */
+@media (min-width:769px){
+  .im-menu{display:block;}
+}
