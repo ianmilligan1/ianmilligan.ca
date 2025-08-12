@@ -1,10 +1,18 @@
-{{ with site.Data.quotes }}
-<section class="quotes container">
-  {{ range . }}
-    <blockquote>
-      <p>“{{ .quote }}”</p>
-      <cite>{{ .source }}</cite>
-    </blockquote>
+<section class="quotes" aria-label="Reviews">
+  {{ with site.Data.quotes }}
+    {{ range . }}
+      <blockquote>
+        “{{ .quote }}”
+        <footer>— {{ if .url }}<a href="{{ .url }}" rel="noopener">{{ .source }}</a>{{ else }}{{ .source }}{{ end }}</footer>
+      </blockquote>
+    {{ end }}
   {{ end }}
 </section>
-{{ end }}
+
+<style>
+  .pullquote{margin:1.25rem auto; max-width:60ch}
+  .pullquote blockquote{margin:0 0 .4rem; font-size:1.15rem; font-style:italic; line-height:1.5}
+  .pullquote figcaption{opacity:.8}
+  .pullquote a{text-decoration:none; border-bottom:1px solid currentColor}
+  @media (max-width:700px){ .pullquote blockquote{font-size:1.05rem} }
+</style>
