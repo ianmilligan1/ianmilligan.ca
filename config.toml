@@ -8,10 +8,10 @@ disableKinds = ["taxonomy", "term"]
   pagerSize = 10
 
 [params]
-  description = "Historian of the Digital Age. Author of *Averting the Digital Dark Age*."
+  description = "Historian of the Digital Age and Academic Administrator. Author of *Averting the Digital Dark Age*."
   name = "Ian Milligan"
   postnominal = "FRHistS"  # leave blank to hide
-  role = "Professor of History"
+  role = "Professor of History & Associate Vice-President"
   affiliation = "University of Waterloo"
   hero_tagline = "Historian of the Digital Age"
   hero_highlight = "Author of Averting the Digital Dark Age (JHU Press, 2024)."
