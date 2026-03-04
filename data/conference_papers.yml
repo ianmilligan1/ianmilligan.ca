@@ -1,0 +1,47 @@
+- title: 'ABCDEF: The 6 Key Features Behind Scalable, Multi-Tenant Web Archive Processing with ARCH'
+  authors: ['Helge Holzmann', 'Nick Ruest', 'Jefferson Bailey', 'Alex Dempsey', 'Samantha Fritz', 'Peggy Lee', 'Ian Milligan']
+  venue: Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries
+  pages: '1–11'
+  year: 2022
+
+- title: 'The Archives Unleashed Project: Technology, Process, and Community to Improve Scholarly Access to Web Archives'
+  authors: ['Nick Ruest', 'Jimmy Lin', 'Ian Milligan', 'Samantha Fritz']
+  venue: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries
+  pages: '157–166'
+  year: 2020
+
+- title: 'We Could, but Should We? Ethical Considerations for Providing Access to GeoCities and Other Historical Digital Collections'
+  authors: ['Jimmy Lin', 'Ian Milligan', 'Douglas W. Oard', 'Nick Ruest', 'Katie Shilton']
+  venue: Proceedings of the ACM SIGIR CHIIR
+  pages: '135–144'
+  year: 2020
+
+- title: 'The Cost of a WARC: Analyzing Web Archives in the Cloud'
+  authors: ['Ryan Deschamps', 'Samantha Fritz', 'Jimmy Lin', 'Ian Milligan', 'Nick Ruest']
+  venue: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries
+  pages: '261–264'
+  year: 2019
+
+- title: 'Building Community and Tools for Analyzing Web Archives through Datathons'
+  authors: ['Ian Milligan', 'Nathalie Casemajor', 'Samantha Fritz', 'Jimmy Lin', 'Nick Ruest', 'Matthew S. Weber', 'Nicholas Worby']
+  venue: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries
+  pages: '265–268'
+  year: 2019
+
+- title: 'Understanding Computational Web Archives Research Methods Using Research Objects'
+  authors: ['Emily Maemura', 'Christoph Becker', 'Ian Milligan']
+  venue: IEEE Big Data Workshop in Computational Archival Science
+  pages: '3250–3259'
+  year: 2016
+
+- title: 'Content Selection and Curation for Web Archiving: The Gatekeepers vs. the Masses'
+  authors: ['Ian Milligan', 'Nick Ruest', 'Jimmy Lin']
+  venue: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries
+  pages: '107–110'
+  year: 2016
+
+- title: 'Desiderata for Exploratory Search Interfaces to Web Archives in Support of Scholarly Activities'
+  authors: ['Andrew Jackson', 'Jimmy Lin', 'Ian Milligan', 'Nick Ruest']
+  venue: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries
+  pages: '103–106'
+  year: 2016

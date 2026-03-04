@@ -1,11 +1,28 @@
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
-    <nav class="nav">
+
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="mainNav">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="nav" id="mainNav">
       {{ $current := . }}
       {{ range .Site.Menus.main }}
-        <a class="nav-link {{ if or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a>
+        <a class="nav-link{{ if or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }} active{{ end }}"
+           href="{{ .URL | relURL }}">{{ .Name }}</a>
       {{ end }}
     </nav>
   </div>
 </header>
+
+<script>
+  (function(){
+    var btn = document.getElementById('navToggle');
+    var nav = document.getElementById('mainNav');
+    btn.addEventListener('click', function(){
+      var open = nav.classList.toggle('nav--open');
+      btn.setAttribute('aria-expanded', open);
+    });
+  })();
+</script>
