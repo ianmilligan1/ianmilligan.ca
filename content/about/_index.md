@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Ian Milligan (he/him) is a Professor of History at the University of Waterloo and a Fellow of the Royal Historical Society. A leading figure in digital history and web archives, he has authored or co-authored six books — most recently _Averting the Digital Dark Age_ (Johns Hopkins, 2024) — and secured over $2.8 million in research funding across his career.
+Ian Milligan (he/him) is a Professor of History at the University of Waterloo and a Fellow of the Royal Historical Society. He has authored or co-authored six books — most recently _Averting the Digital Dark Age_ (Johns Hopkins, 2024) — and secured over $2.8 million in research funding across his career.
 
 Ian brings the same collaborative instinct to leadership as he does to research. As Associate Vice-President, Research Oversight & Integrity, he provides campus-wide leadership across research ethics, compliance, safeguarding, and research data management, co-leading the university's RDM strategy through to implementation. As PI of the [Archives Unleashed](https://archivesunleashed.org) project (2017–2023), he built and managed an interdisciplinary, multi-institution research team whose work is now offered as a [service](https://archive-it.org/arch/) by the Internet Archive.
 

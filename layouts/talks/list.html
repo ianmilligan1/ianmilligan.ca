@@ -2,16 +2,17 @@
 <section class="container">
   <h1>{{ .Title }}</h1>
 
-  <!-- Keynotes (content from keynotes section) -->
-  <h2>Keynotes</h2>
+  <!-- Keynote & Invited Talks -->
+  <h2>Keynote &amp; Invited Talks</h2>
   {{ with site.GetPage "section" "keynotes" }}
     <div class="prose">{{ .Content }}</div>
   {{ end }}
 
-  <!-- Podcasts & Radio -->
+  <!-- Media Appearances -->
+  <h2>Media Appearances</h2>
   {{ with site.Data.media }}
     {{ with .podcasts }}
-      <h2>Podcasts / Radio</h2>
+      <h3>Podcasts &amp; Radio</h3>
       <ul class="link-list">
         {{ range . }}
           <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a><span class="muted"> · {{ .outlet }} · {{ .year }}</span></li>
@@ -19,7 +20,7 @@
       </ul>
     {{ end }}
     {{ with .videos }}
-      <h2>Videos</h2>
+      <h3>Videos</h3>
       <ul class="link-list">
         {{ range . }}
           <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a><span class="muted"> · {{ .outlet }} · {{ .year }}</span></li>
