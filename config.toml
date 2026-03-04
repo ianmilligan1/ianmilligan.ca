@@ -34,14 +34,19 @@ disableKinds = ["taxonomy", "term"]
     weight = 2
 
   [[menu.main]]
-    name = "Books"
-    url = "/books/"
+    name = "Publications"
+    url = "/publications/"
     weight = 3
 
   [[menu.main]]
-    name = "Articles & Chapters"
-    url = "/articles/"
+    name = "Talks & Media"
+    url = "/talks/"
     weight = 4
+
+  [[menu.main]]
+    name = "Funding"
+    url = "/funding/"
+    weight = 5
 
   [[menu.main]]
     name = "CV"
@@ -49,21 +54,6 @@ disableKinds = ["taxonomy", "term"]
     weight = 45
 
   [[menu.main]]
-    name = "Media"
-    url = "/media/"
-    weight = 5
-
-  [[menu.main]]
-    name = "Keynotes"
-    url = "/keynotes/"
-    weight = 6
-
-  [[menu.main]]
-    name = "Funding"
-    url = "/funding/"
-    weight = 7
-
-  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 8
+    weight = 6

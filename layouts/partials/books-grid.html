@@ -1,7 +1,33 @@
 {{ with site.Data.books }}
 <section class="books container">
-  <div class="card-grid">
-    {{ range . }}
+
+  <!-- Hero: latest book -->
+  {{ $first := index . 0 }}
+  <div class="book-hero">
+    <div class="book-hero-cover">
+      {{ with $first.cover }}
+        <img src="{{ . | relURL }}" alt="Cover for {{ $first.title }}">
+      {{ end }}
+    </div>
+    <div class="book-hero-body">
+      <span class="book-hero-label">Latest Book</span>
+      <h2 class="book-hero-title">{{ $first.title }}</h2>
+      {{ with $first.subtitle }}<p class="book-hero-subtitle">{{ . }}</p>{{ end }}
+      <p class="meta">{{ $first.publisher }}, {{ $first.year }}</p>
+      {{ with $first.links }}
+        <div class="links">
+          {{ range . }}
+            <a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- Backlist grid -->
+  <h3 class="backlist-heading">Earlier Books</h3>
+  <div class="card-grid card-grid--backlist">
+    {{ range after 1 . }}
       {{ $book := . }}
       <article class="card">
         <div class="cover">
@@ -27,5 +53,6 @@
       </article>
     {{ end }}
   </div>
+
 </section>
 {{ end }}
