@@ -17,6 +17,8 @@ disableKinds = ["taxonomy", "term"]
   hero_highlight = "Author of Averting the Digital Dark Age (JHU Press, 2024)."
   hero_image = "images/milligan.jpg" # replace with your portrait, e.g. images/ian.jpg
   email = "i2millig@uwaterloo.ca"
+  orcid = "https://orcid.org/0000-0002-1470-7723"
+  google_scholar = "https://scholar.google.ca/citations?user=ZDmByc4AAAAJ&hl=en"
   phone = "+1 519 888 4567 ext. 42775"
   address = "East Campus 5, 200 University Ave W, Waterloo, ON N2L 3G1"
 
