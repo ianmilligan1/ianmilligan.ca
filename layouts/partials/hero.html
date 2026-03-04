@@ -17,6 +17,10 @@
 
 <p class="hero-kicker">{{ .Site.Params.hero_tagline }}</p>
       <p class="hero-sub">{{ .Site.Params.hero_highlight }}</p>
+      <p class="hero-links">
+        {{ with .Site.Params.orcid }}<a href="{{ . }}" class="hero-ext-link" target="_blank" rel="noopener">ORCID</a>{{ end }}
+        {{ with .Site.Params.google_scholar }}<a href="{{ . }}" class="hero-ext-link" target="_blank" rel="noopener">Google Scholar</a>{{ end }}
+      </p>
     </div>
     <div class="hero-image">
       <img src="{{ .Site.Params.hero_image | relURL }}" alt="{{ .Site.Params.name }} portrait">

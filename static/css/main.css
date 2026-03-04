@@ -48,17 +48,36 @@ h3{font-size:1.1rem;margin:.75rem 0}
 .hero-kicker{font-size:1.15rem; color:var(--muted); margin:.75rem 0 0}
 .hero-sub{font-size:1rem; margin:.25rem 0 0}
 .hero-image img{width:100%; max-width:360px; border-radius:1rem; display:block; margin:0 auto; box-shadow:0 10px 30px rgba(0,0,0,.08)}
+.hero-links{margin:.75rem 0 0; display:flex; gap:.5rem; flex-wrap:wrap}
+.hero-ext-link{font-size:.8rem; color:var(--muted); text-decoration:none; border:1px solid var(--border); border-radius:.4rem; padding:.2rem .6rem}
+.hero-ext-link:hover{color:var(--fg); border-color:var(--fg)}
 
-.quotes{padding:1.5rem 0; display:grid; gap:1rem}
-blockquote{margin:0; padding:1rem 1.25rem; background:var(--card); border:1px solid var(--border); border-radius:1rem}
-blockquote p{margin:0 0 .5rem 0; font-size:1.1rem; font-style:italic}
-blockquote cite{font-style:normal; color:var(--muted)}
+.quotes{padding:1.5rem 0; display:grid; gap:1.25rem}
+blockquote{margin:0; padding:1rem 1.25rem 1rem 1.5rem; background:var(--card); border:1px solid var(--border); border-left:4px solid #b8941f; border-radius:0 1rem 1rem 0}
+blockquote p{margin:0 0 .5rem 0; font-size:1.15rem; font-style:italic; font-family:Georgia,"Times New Roman",serif; line-height:1.65; color:var(--fg)}
+blockquote footer{font-size:.85rem; color:var(--muted); font-weight:400; display:block; margin-top:.4rem}
+blockquote footer a{color:var(--muted); text-decoration:underline; text-underline-offset:2px}
 
 .about-snippet{padding:2rem 0}
 .button{display:inline-block; padding:.55rem .9rem; border:1px solid var(--fg); border-radius:.75rem; text-decoration:none; color:var(--fg)}
 
 .books{padding:2rem 0}
+
+/* Book hero (featured/latest book) */
+.book-hero{display:grid; grid-template-columns:180px 1fr; gap:2rem; align-items:start; padding:1.5rem; background:var(--card); border:1px solid var(--border); border-radius:1rem; margin-bottom:2rem}
+.book-hero-cover img{width:100%; height:auto; box-shadow:0 8px 24px rgba(0,0,0,.12); border-radius:.5rem; display:block}
+.book-hero-label{font-size:.75rem; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:var(--muted)}
+.book-hero-title{font-size:1.5rem; margin:.25rem 0}
+.book-hero-subtitle{color:var(--muted); font-style:italic; margin:.25rem 0}
+.backlist-heading{color:var(--muted); font-size:.875rem; text-transform:uppercase; letter-spacing:.08em; margin:1.5rem 0 .75rem; font-weight:600}
+
+@media(max-width:600px){
+  .book-hero{grid-template-columns:1fr}
+  .book-hero-cover{max-width:160px}
+}
+
 .card-grid{display:grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap:1rem}
+.card-grid--backlist{grid-template-columns: repeat(auto-fill, minmax(190px, 1fr))}
 .card{background:var(--card); border:1px solid var(--border); border-radius:1rem; overflow:hidden; display:flex; flex-direction:column}
 .cover{background:white; display:flex; align-items:center; justify-content:center; min-height:260px}
 .cover img{max-width:70%; height:auto; object-fit:contain; display:block}
