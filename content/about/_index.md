@@ -12,7 +12,7 @@ From 2017 to 2023 he was principal investigator of the [Archives Unleashed](http
 
 ## Administration
 
-Milligan currently serves as Associate Vice-President, Research Oversight & Integrity at Waterloo, providing campus leadership for research integrity and compliance. His portfolio includes the Office of Research Ethics, safeguarding research, inclusive research, research health & safety, bibliometrics, emergency research issues, and campus research awards. He co-led the university's Research Data Management strategy and continues to support its implementation.
+Milligan currently serves as Associate Vice-President, Research Oversight & Integrity at Waterloo, providing campus leadership for research integrity and compliance. His portfolio includes the Office of Research Ethics, safeguarding research, research health & safety, bibliometrics, emergency research issues, and campus research awards. He co-led the university's Research Data Management strategy and continues to support its implementation.
 
 ## Service & Recognition
 
