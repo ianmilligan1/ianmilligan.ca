@@ -525,6 +525,37 @@ hr, .section-divider {
 /* === Prose / Content pages ======================================= */
 .prose { padding: 2rem 0; }
 
+/* === Page sidebar image (About, Research) ======================== */
+.page-sidebar-image {
+  float: right;
+  margin: 0.25rem 0 1.5rem 2.5rem;
+  width: 340px;
+  max-width: 46%;
+  shape-outside: border-box;
+}
+.page-sidebar-image img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: var(--shadow-medium);
+  display: block;
+}
+.page-sidebar-image figcaption {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  color: var(--text-light);
+  text-align: center;
+  margin-top: 0.5rem;
+  line-height: 1.4;
+}
+@media (max-width: 640px) {
+  .page-sidebar-image {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 1.5rem 0;
+  }
+}
+
 /* === Legacy nav.html Bootstrap nav (unused, harmless to keep) ==== */
 .im-header__inner {
   max-width: 72rem; margin: 0 auto; padding: 0.75rem 1rem;
