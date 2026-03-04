@@ -1,0 +1,79 @@
+{{ define "main" }}
+<section class="container">
+  <h1>{{ .Title }}</h1>
+
+  <div class="prose">{{ .Content }}</div>
+
+  <!-- Research Funding -->
+  <h2>Research Funding</h2>
+  {{ with site.GetPage "section" "funding" }}
+    <div class="prose">{{ .Content }}</div>
+  {{ end }}
+
+  <!-- Peer-Reviewed Articles -->
+  {{ with site.Data.articles }}
+  <h2>Peer-Reviewed Articles</h2>
+  <ul class="pub-list">
+    {{ range . }}
+    <li class="pub-item">
+      <div class="pub-title">
+        {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}
+        {{ with .note }}<span class="pub-badge">{{ . }}</span>{{ end }}
+      </div>
+      <div class="pub-meta">
+        {{ if .authors }}
+          <span class="pub-authors">{{ delimit .authors ", " }}</span> ·
+        {{ end }}
+        <em>{{ .outlet }}</em>
+        {{ with .volume }}, {{ . }}{{ end }}
+        {{ with .pages }} ({{ . }}){{ end }}
+        · <span class="pub-year">{{ .year }}</span>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <!-- Book Chapters -->
+  {{ with site.Data.book_chapters }}
+  <h2>Book Chapters</h2>
+  <ul class="pub-list">
+    {{ range . }}
+    <li class="pub-item">
+      <div class="pub-title">{{ .title }}</div>
+      <div class="pub-meta">
+        {{ if .authors }}
+          <span class="pub-authors">{{ delimit .authors ", " }}</span> ·
+        {{ end }}
+        In <em>{{ .book }}</em>
+        {{ with .publisher }}, {{ . }}{{ end }}
+        {{ with .pages }}, pp. {{ . }}{{ end }}
+        · <span class="pub-year">{{ .year }}</span>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <!-- Peer-Reviewed Conference Publications -->
+  {{ with site.Data.conference_papers }}
+  <h2>Peer-Reviewed Conference Publications</h2>
+  <ul class="pub-list">
+    {{ range . }}
+    <li class="pub-item">
+      <div class="pub-title">{{ .title }}</div>
+      <div class="pub-meta">
+        {{ if .authors }}
+          <span class="pub-authors">{{ delimit .authors ", " }}</span> ·
+        {{ end }}
+        <em>{{ .venue }}</em>
+        {{ with .pages }}, pp. {{ . }}{{ end }}
+        · <span class="pub-year">{{ .year }}</span>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+</section>
+{{ end }}

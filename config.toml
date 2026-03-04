@@ -34,26 +34,26 @@ disableKinds = ["taxonomy", "term"]
     weight = 2
 
   [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
+    name = "Books"
+    url = "/books/"
     weight = 3
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 4
 
   [[menu.main]]
     name = "Talks & Media"
     url = "/talks/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Funding"
-    url = "/funding/"
     weight = 5
-
-  [[menu.main]]
-    name = "CV"
-    url = "/Milligan_CV.pdf"
-    weight = 45
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 6
+
+  [[menu.main]]
+    name = "CV"
+    url = "/Milligan_CV.pdf"
+    weight = 45
