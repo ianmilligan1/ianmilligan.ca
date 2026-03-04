@@ -39,9 +39,14 @@ disableKinds = ["taxonomy", "term"]
     weight = 3
 
   [[menu.main]]
-    name = "Articles"
+    name = "Articles & Chapters"
     url = "/articles/"
     weight = 4
+
+  [[menu.main]]
+    name = "CV"
+    url = "/Milligan_CV.pdf"
+    weight = 45
 
   [[menu.main]]
     name = "Media"
