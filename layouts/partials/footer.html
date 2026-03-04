@@ -10,6 +10,8 @@
           <li><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
           {{ with .Site.Params.phone }}<li>{{ . }}</li>{{ end }}
           {{ with .Site.Params.address }}<li>{{ . }}</li>{{ end }}
+          {{ with .Site.Params.orcid }}<li><a href="{{ . }}">ORCID</a></li>{{ end }}
+          {{ with .Site.Params.google_scholar }}<li><a href="{{ . }}">Google Scholar</a></li>{{ end }}
         </ul>
       </div>
     </div>
