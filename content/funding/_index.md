@@ -27,3 +27,8 @@ title: "Funding"
 - **IMLS — Laura Bush 21st Century Librarian Program (“Continuing Education to Advance Web Archiving”).** PIs: Zhiwu Xie, Edward Fox; Partners: LANL Research Library, ODU Computer Science, University of Waterloo (History), Internet Archive, GWU Libraries. CAD **$314,824** (USD $248,451). **2018–2020**.
 - **AHRC (UK) — “Born-Digital Data and Methods for History and the Humanities.”** PI: Jane Winters; Co-I: Tobias Blanke; Partners: The National Archives (UK), University of Cambridge, University of Sussex, British Library, University of Waterloo (Ian Milligan), Webster Research & Consulting. CAD **$60,125** (£32,210). **2016–2017**.
 - **SSHRC Connection — “New Directions in Active History: Institutions, Communication, and Technologies.”** PI: Thomas Peace; Co-Is: Ian Milligan, Jim Clifford, Daniel Ross, Kaleigh Bradley, Krista McCracken, Andrew Nurse. CAD **$19,304**. **2015–2016**.
+
+## Private-Sector Funding
+
+- **Start Smart Labs — Gift Agreement to the Internet Archive.** Researchers: Jefferson Bailey, Ian Milligan, Jimmy Lin. USD **$30,000**. **2020–2023**.
+- **Start Smart Labs — Gift Agreement to the University of Waterloo.** Researchers: Ian Milligan, Jimmy Lin. USD **$90,000**. **2018–2020**.
