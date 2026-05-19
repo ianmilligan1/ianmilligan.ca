@@ -2,8 +2,8 @@
 <section class="container">
   <h1>{{ .Title }}</h1>
 
-  <!-- Keynote & Invited Talks -->
-  <h2>Keynote &amp; Invited Talks</h2>
+  <!-- Keynotes -->
+  <h2>Keynotes</h2>
   {{ with site.GetPage "section" "keynotes" }}
     <div class="prose">{{ .Content }}</div>
   {{ end }}
