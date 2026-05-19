@@ -44,7 +44,7 @@ disableKinds = ["taxonomy", "term"]
     weight = 4
 
   [[menu.main]]
-    name = "Talks & Media"
+    name = "Keynotes & Media"
     url = "/talks/"
     weight = 5
 

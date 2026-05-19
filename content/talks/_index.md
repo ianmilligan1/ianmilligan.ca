@@ -1,5 +1,5 @@
 ---
-title: "Talks & Media"
+title: "Keynotes & Media"
 aliases:
   - /keynotes/
   - /media/
