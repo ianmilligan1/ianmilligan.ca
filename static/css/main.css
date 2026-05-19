@@ -445,6 +445,18 @@ hr, .section-divider {
   color: #FFFFFF;
   border-bottom: none;
 }
+.links a.featured {
+  background-color: var(--accent);
+  color: #FFFFFF;
+}
+.links a.featured::before {
+  content: "★ ";
+  font-size: 0.9em;
+}
+.links a.featured:hover {
+  background-color: var(--accent-hover);
+  border-color: var(--accent-hover);
+}
 
 /* === Publication Lists =========================================== */
 .link-list { list-style: none; padding: 0; margin: 1rem 0; display: grid; gap: 0.5rem; }
