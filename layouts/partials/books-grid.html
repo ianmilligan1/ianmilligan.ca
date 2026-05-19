@@ -17,7 +17,7 @@
       {{ with $first.links }}
         <div class="links">
           {{ range . }}
-            <a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+            <a href="{{ .url }}" target="_blank" rel="noopener"{{ if eq .label "Open Access" }} class="featured"{{ end }}>{{ .label }}</a>
           {{ end }}
         </div>
       {{ end }}
@@ -45,7 +45,7 @@
           {{ with $book.links }}
             <div class="links">
               {{ range . }}
-                <a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+                <a href="{{ .url }}" target="_blank" rel="noopener"{{ if eq .label "Open Access" }} class="featured"{{ end }}>{{ .label }}</a>
               {{ end }}
             </div>
           {{ end }}
