@@ -31,8 +31,9 @@
   --maxw: 1000px;
 
   /* Fonts */
-  --font-heading: 'Libre Baskerville', Georgia, serif;
-  --font-body:    'Source Sans 3', 'Source Sans Pro', -apple-system, sans-serif;
+  --font-heading: 'EB Garamond', Georgia, serif;
+  --font-body:    'EB Garamond', Georgia, serif;
+  --font-mono:    'Inconsolata', ui-monospace, 'SFMono-Regular', monospace;
 }
 
 /* === Reset ======================================================= */
@@ -42,20 +43,21 @@ html, body { margin: 0; padding: 0; }
 /* === Base ======================================================== */
 body {
   font-family: var(--font-body);
-  font-size: 17px;
-  line-height: 1.65;
+  font-size: 19px;
+  line-height: 1.6;
   color: var(--text-primary);
   background-color: var(--bg-primary);
+  font-variant-numeric: oldstyle-nums;
 }
 
 .container { max-width: var(--maxw); margin: 0 auto; padding: 0 1.25rem; }
-.prose p   { max-width: 65ch; }
+.prose p   { max-width: 65ch; hyphens: auto; -webkit-hyphens: auto; }
 .muted     { color: var(--text-secondary); }
 
 /* === Typography ================================================== */
 h1, h2, h3 {
   font-family: var(--font-heading);
-  font-weight: 700;
+  font-weight: 600;
   color: var(--text-primary);
   letter-spacing: 0.01em;
 }
@@ -96,7 +98,7 @@ a:hover {
 }
 .brand {
   font-family: var(--font-heading);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.05rem;
   text-decoration: none;
   border-bottom: none;
@@ -180,8 +182,8 @@ a:hover {
 .hero-title {
   font-family: var(--font-heading);
   font-size: clamp(1.75rem, 7vw, 2.75rem);
-  letter-spacing: 0.02em;
-  font-weight: 700;
+  letter-spacing: 0.01em;
+  font-weight: 600;
   color: var(--text-primary);
   line-height: 1.15;
   overflow-wrap: break-word;
@@ -196,6 +198,7 @@ a:hover {
 }
 .hero-kicker {
   font-size: 1.15rem;
+  font-style: italic;
   color: var(--text-secondary);
   margin: 0.75rem 0 0;
 }
@@ -322,10 +325,20 @@ blockquote cite a:hover {
 /* === Section Dividers ============================================ */
 hr, .section-divider {
   border: none;
-  height: 1px;
-  background-color: var(--border-light);
-  margin: 3rem auto;
-  max-width: 120px;
+  background: none;
+  height: auto;
+  margin: 2.5rem auto;
+  max-width: none;
+  text-align: center;
+  color: var(--text-light);
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  line-height: 1;
+  overflow: visible;
+}
+hr::after,
+.section-divider::after {
+  content: "\2766"; /* ❦ */
 }
 
 /* === Books ======================================================= */
@@ -352,14 +365,15 @@ hr, .section-divider {
   display: block;
 }
 .book-hero-label {
-  font-size: 0.75rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.04em;
   color: var(--text-secondary);
 }
 .book-hero-title {
   font-family: var(--font-heading);
+  font-weight: 600;
   font-size: 1.5rem;
   margin: 0.25rem 0;
   color: var(--text-primary);
@@ -372,9 +386,9 @@ hr, .section-divider {
 .backlist-heading {
   font-family: var(--font-body);
   color: var(--text-secondary);
-  font-size: 0.875rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  font-size: 1.1rem;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.04em;
   margin: 1.5rem 0 0.75rem;
   font-weight: 600;
 }
@@ -424,6 +438,7 @@ hr, .section-divider {
 .card-body { padding: 1rem 1.25rem 1.25rem; }
 .card-title {
   font-family: var(--font-heading);
+  font-weight: 600;
   margin: 0.25rem 0;
   font-size: 1.05rem;
   color: var(--text-primary);
@@ -511,6 +526,7 @@ hr, .section-divider {
 }
 .footer-grid h4 {
   font-family: var(--font-heading);
+  font-weight: 600;
   color: var(--text-primary);
   margin: 0.25rem 0 0.5rem;
 }
