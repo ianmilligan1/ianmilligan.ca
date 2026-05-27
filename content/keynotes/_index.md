@@ -3,13 +3,13 @@ title: "Keynotes"
 ---
 
 ## 2026
-- **The Legibility of Absence: From the Finding Aid to the Language Model** — *Digitisation of scholarly knowledge through the prism of research practices*, University of Lille, Villeneuve-d'Ascq, France, **May 2026**.
+- **The Legibility of Absence: From the Finding Aid to the Language Model** — *Digitisation of Scholarly Knowledge Through the Prism of Research Practices*, University of Lille, Villeneuve-d’Ascq, France, **May 2026**.
 
 ## 2025
 - **Exploring Digital Terror: Using the September 11 Digital Archive for Historical Research** — *Real-Time History: Engaging with Living Archives and Temporal Multiplicities*, Washington, DC, **March 2025**.
 
 ## 2023
-- **Interpreting the Web: The Critical Role of Historical Context in Web Archival Research** — *Le Web: Source et Archive*, Lille, France, **April 2023**.
+- **Interpreting the Web: The Critical Role of Historical Context in Web Archival Research** — *Le Web: Source et Archive*, University of Lille, Villeneuve-d’Ascq, France, **April 2023**.
 
 ## 2022
 - **The Transformation of Historical Research in the Digital Age** — *5th Digital History in Sweden Conference: Abundance in a Digital Age*, Lund, Sweden, **November 2022**.
