@@ -2,6 +2,9 @@
 title: "Keynotes"
 ---
 
+## 2026
+- **The Legibility of Absence: From the Finding Aid to the Language Model** — *Digitisation of scholarly knowledge through the prism of research practices*, University of Lille, Villeneuve-d'Ascq, France, **May 2026**.
+
 ## 2025
 - **Exploring Digital Terror: Using the September 11 Digital Archive for Historical Research** — *Real-Time History: Engaging with Living Archives and Temporal Multiplicities*, Washington, DC, **March 2025**.
 
