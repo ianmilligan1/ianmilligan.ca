@@ -6,7 +6,8 @@
   {{ .Site.Params.name | default "Ian Milligan" | upper }}<span aria-hidden="true">,</span><abbr class="postnominal" title="Fellow of the Royal Historical Society">{{ .Site.Params.postnominal | default "FRHistS" }}</abbr>
 </h1>
 
-<p class="hero-kicker">{{ .Site.Params.hero_tagline }}</p>
+{{ with .Site.Params.hero_tagline }}<p class="hero-kicker">{{ . }}</p>{{ end }}
+      {{ with .Site.Params.role }}<p class="hero-role">{{ . }}</p>{{ end }}
       <p class="hero-sub">{{ .Site.Params.hero_highlight }}</p>
       <p class="hero-links">
         {{ with .Site.Params.orcid }}<a href="{{ . }}" class="hero-ext-link" target="_blank" rel="noopener">ORCID</a>{{ end }}

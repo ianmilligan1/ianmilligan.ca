@@ -11,16 +11,15 @@ disableKinds = ["taxonomy", "term"]
   description = "Historian of the Digital Age and Academic Administrator. Author of *Averting the Digital Dark Age*."
   name = "Ian Milligan"
   postnominal = "FRHistS"  # leave blank to hide
-  role = "Professor of History & Associate Vice-President"
+  role = "Professor of History & Director, School of Social, Political, and Historical Research"
   affiliation = "University of Waterloo"
-  hero_tagline = "Historian of the Digital Age"
+  hero_tagline = ""  # leave blank to hide the kicker line
   hero_highlight = "Author of Averting the Digital Dark Age (JHU Press, 2024)."
-  hero_image = "images/milligan.jpg" # replace with your portrait, e.g. images/ian.jpg
+  hero_image = "images/milligan-2026.jpg"
   email = "i2millig@uwaterloo.ca"
   orcid = "https://orcid.org/0000-0002-1470-7723"
   google_scholar = "https://scholar.google.ca/citations?user=ZDmByc4AAAAJ&hl=en"
-  phone = "+1 519 888 4567 ext. 42775"
-  address = "East Campus 5, 200 University Ave W, Waterloo, ON N2L 3G1"
+  address = "Hagey Hall of the Humanities, 200 University Ave W, Waterloo, ON N2L 3G1"
 
 [menu]
   [[menu.main]]
