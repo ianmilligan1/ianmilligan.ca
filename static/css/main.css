@@ -283,6 +283,7 @@ blockquote cite a:hover {
 
 /* === About Snippet =============================================== */
 .about-snippet { padding: 2.5rem 0; }
+.about-snippet > h2:first-child { margin-top: 0; }
 
 /* === Buttons ===================================================== */
 .btn-primary,
