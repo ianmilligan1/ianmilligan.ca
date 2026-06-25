@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Ian Milligan (he/him) is a Professor of History at the University of Waterloo and a Fellow of the Royal Historical Society. He has authored or co-authored six books, most recently *Averting the Digital Dark Age* (Johns Hopkins, 2024).
+Ian Milligan (he/him) is a Professor of History at the University of Waterloo and a Fellow of the Royal Historical Society. He has authored or co-authored six books, most recently *Averting the Digital Dark Age* (Johns Hopkins, 2024), and is currently at work on *On Every Screen*, a history of how ordinary people used the early internet to make sense of the September 11th attacks.
 
 He is the inaugural Director of the School of Social, Political, and Historical Research at the University of Waterloo, a four-year appointment that began in July 2026. Created through a Faculty of Arts reorganization into six schools, it brings together seven departments — Anthropology, Classical Studies, History, Philosophy, Political Science, Religious Studies, and Sociology & Legal Studies — with a mandate to advance interdisciplinary research and teaching while respecting the distinct strengths of each discipline. He previously served as Associate Vice-President, Research Oversight & Integrity, providing campus-wide leadership across research ethics, compliance, safeguarding, and research data management. As PI of the [Archives Unleashed](https://archivesunleashed.org) project (2017–2023), he worked with and helped lead an interdisciplinary, multi-institution research team whose work is now offered as a [service](https://archive-it.org/arch/) by the Internet Archive.
 
