@@ -3,6 +3,7 @@ title: "Keynotes"
 ---
 
 ## 2026
+- **What the AI Won’t Tell You: Absence and the Architecture of Trust** — *GLOW-Ready: Getting Government Archives GenAI-Ready*, LUSTRE Network, online, **June 2026**.
 - **The Legibility of Absence: From the Finding Aid to the Language Model** — *Digitisation of Scholarly Knowledge Through the Prism of Research Practices*, University of Lille, Villeneuve-d’Ascq, France, **May 2026**.
 
 ## 2025
