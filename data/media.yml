@@ -53,3 +53,32 @@ videos:
     outlet: "NewsEye 2021"
     year: 2021
     url: "https://www.youtube.com/watch?v=pyHATsXGdxQ"
+writing:
+  - title: "Elon Musk’s buyout of Twitter has placed its user-generated archives in danger"
+    outlet: "The Conversation"
+    year: 2022
+  - title: "Will Covid-19 become the 21st century’s forgotten pandemic?"
+    outlet: "The Globe and Mail"
+    with: "Esyllt Jones and Shelley Sweeney"
+    year: 2020
+  - title: "2020 is a year for the history books, but not without digital archives"
+    outlet: "The Conversation"
+    year: 2020
+  - title: "Interdisciplinary scholarship needs to be normalized within professions"
+    outlet: "University Affairs"
+    year: 2020
+  - title: "Don’t despair if your teen wants to major in history instead of science"
+    outlet: "The Conversation"
+    year: 2019
+  - title: "Historians’ archival research looks quite different in the digital age"
+    outlet: "The Conversation"
+    year: 2019
+  - title: "The Problem of History in the Age of Abundance"
+    outlet: "The Chronicle of Higher Education"
+    year: 2016
+  - title: "Does History Matter?"
+    outlet: "Literary Review of Canada"
+    year: 2014
+  - title: "Archives: Preserve Our Digital Heritage"
+    outlet: "Nature"
+    year: 2013

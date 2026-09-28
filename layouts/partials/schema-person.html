@@ -1,0 +1,21 @@
+{{- $p := .Site.Params -}}
+{{- $sameAs := slice -}}
+{{- with $p.orcid }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+{{- with $p.google_scholar }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+{{- $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" $p.name
+  "url" .Site.Home.Permalink
+  "image" ($p.hero_image | absURL)
+  "jobTitle" $p.role
+  "email" (printf "mailto:%s" $p.email)
+  "honorificSuffix" $p.postnominal
+  "worksFor" (dict "@type" "CollegeOrUniversity" "name" $p.affiliation)
+  "alumniOf" (slice
+    (dict "@type" "CollegeOrUniversity" "name" "York University")
+    (dict "@type" "CollegeOrUniversity" "name" "Queen's University"))
+  "knowsAbout" (slice "Digital history" "Web archives" "History of the internet" "Digital preservation" "Research integrity" "Canadian history")
+  "sameAs" $sameAs
+-}}
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>

@@ -3,8 +3,26 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ block "title" . }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ .Site.Params.description }}">
+  {{- $title := cond .IsHome .Site.Title (printf "%s · %s" .Title .Site.Title) }}
+  {{- $desc := .Params.description | default .Site.Params.description }}
+  {{- $image := .Site.Params.hero_image | absURL }}
+  <title>{{ $title }}</title>
+  <meta name="description" content="{{ $desc | plainify }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%232A7F7B'/><text x='16' y='22' font-family='Georgia,serif' font-size='17' font-weight='600' text-anchor='middle' fill='%23FAF8F5'>IM</text></svg>">
+
+  <meta property="og:type" content="{{ cond .IsHome "profile" "website" }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:title" content="{{ $title }}">
+  <meta property="og:description" content="{{ $desc | plainify }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ $image }}">
+  <meta name="twitter:card" content="summary">
+
+  {{- if .IsHome }}
+  {{ partial "schema-person.html" . }}
+  {{- end }}
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">

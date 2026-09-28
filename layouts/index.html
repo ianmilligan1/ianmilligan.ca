@@ -5,7 +5,7 @@
   <section class="about-snippet container">
     <h2>About</h2>
     {{ with site.GetPage "section" "about" }}
-      {{ .Content }}
+      {{ .Summary }}
     {{ end }}
     <p>
       <a class="btn-primary" href="{{ "/about/" | relURL }}">Read more</a>
