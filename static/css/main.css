@@ -51,7 +51,12 @@ body {
 }
 
 .container { max-width: var(--maxw); margin: 0 auto; padding: 0 1.25rem; }
-.prose p   { max-width: 65ch; hyphens: auto; -webkit-hyphens: auto; }
+/* Sections inside <main class="container"> must not add a second gutter */
+.container .container { max-width: none; padding-left: 0; padding-right: 0; }
+.prose p   { hyphens: auto; -webkit-hyphens: auto; }
+/* One reading measure for everything in a text page: paragraphs, headings, lists */
+.prose > :not(figure),
+.about-snippet p { max-width: 37rem; }
 .muted     { color: var(--text-secondary); }
 
 /* === Typography ================================================== */
@@ -189,6 +194,9 @@ a:hover {
   overflow-wrap: break-word;
 }
 .hero-title .postnominal {
+  text-decoration: none;
+  border: none;
+  cursor: help;
   font-size: 0.42em;
   font-weight: 500;
   opacity: 0.75;
@@ -243,22 +251,24 @@ a:hover {
 
 /* === Blockquotes / Pull Quotes =================================== */
 .quotes {
-  padding: 2rem 0;
+  padding: 2.25rem 0 1rem;
   display: grid;
-  gap: 1.25rem;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+}
+@media (max-width: 760px) {
+  .quotes { grid-template-columns: 1fr; gap: 1.5rem; }
 }
 blockquote {
   font-family: var(--font-heading);
   font-style: italic;
-  font-size: 1.05rem;
-  line-height: 1.6;
+  font-size: 1.1rem;
+  line-height: 1.55;
   color: var(--text-primary);
-  background-color: var(--bg-secondary);
-  border-left: 4px solid var(--accent);
-  padding: 1.25rem 1.5rem;
+  padding: 0;
   margin: 0;
-  border-radius: 0 6px 6px 0;
 }
+blockquote p em { font-style: normal; }
 blockquote p { margin: 0 0 0.25rem; font-style: inherit; }
 blockquote footer,
 blockquote cite {
@@ -362,7 +372,6 @@ hr::after,
   border: 1px solid var(--border-light);
   border-radius: 10px;
   margin-bottom: 2rem;
-  box-shadow: var(--shadow-soft);
 }
 .book-hero-cover img {
   width: 100%;
@@ -411,7 +420,13 @@ hr::after,
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 1.25rem;
 }
-.card-grid--backlist { grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); }
+.card-grid--backlist { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 1rem; }
+@media (min-width: 900px) {
+  .card-grid--backlist { grid-template-columns: repeat(5, 1fr); }
+}
+.card-grid--backlist .cover { min-height: 210px; padding: 0.85rem; }
+.card-grid--backlist .card-body { padding: 0.85rem 0.9rem 1rem; }
+.card-grid--backlist .card-title { font-size: 1rem; line-height: 1.3; }
 .card {
   background: var(--bg-card);
   border: 1px solid var(--border-light);
@@ -419,12 +434,6 @@ hr::after,
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  box-shadow: var(--shadow-soft);
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-.card:hover {
-  box-shadow: var(--shadow-medium);
-  transform: translateY(-2px);
 }
 .cover {
   background: var(--bg-secondary);
@@ -480,40 +489,32 @@ hr::after,
   border-color: var(--accent-hover);
 }
 
-/* === Publication Lists =========================================== */
-.link-list { list-style: none; padding: 0; margin: 1rem 0; display: grid; gap: 0.5rem; }
-.link-list a { text-decoration: none; }
-.link-list li {
-  padding: 0.5rem 0.75rem;
-  border: 1px solid var(--border-light);
-  border-radius: 8px;
-  background: var(--bg-card);
+/* === Bibliography lists (publications, lectures, writing, media) = */
+.bib {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 2.5rem;
 }
-.pub-list { list-style: none; padding: 0; margin: 1rem 0 2rem; display: grid; gap: 0.6rem; }
-.pub-item {
-  padding: 0.85rem 1rem;
-  border: 1px solid var(--border-light);
-  border-radius: 8px;
-  background: var(--bg-card);
-  box-shadow: var(--shadow-soft);
+.bib li {
+  display: grid;
+  grid-template-columns: 3.25rem 1fr;
+  gap: 0 1rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--border-light);
+  line-height: 1.5;
 }
-.pub-title            { font-weight: 500; margin-bottom: 0.25rem; }
-.pub-title a          { text-decoration: none; color: var(--text-primary); border-bottom: none; }
-.pub-title a:hover    { color: var(--accent); border-bottom-color: var(--accent); }
-.pub-meta             { font-size: 0.875rem; color: var(--text-secondary); }
-.pub-authors          { color: var(--text-primary); }
-.pub-year             { font-weight: 600; color: var(--text-primary); }
-.pub-badge {
-  display: inline-block;
-  margin-left: 0.5rem;
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: #15803d;
-  background: #dcfce7;
-  border: 1px solid #bbf7d0;
-  border-radius: 0.4rem;
-  padding: 0.1rem 0.4rem;
-  vertical-align: middle;
+.bib li:last-child { border-bottom: none; }
+.bib-year {
+  color: var(--text-light);
+  font-variant-numeric: lining-nums tabular-nums;
+  font-size: 0.95rem;
+  padding-top: 0.05rem;
+}
+.bib-entry a { color: var(--text-primary); border-bottom-color: transparent; }
+.bib-entry a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.bib-note { color: var(--accent-hover); font-style: italic; }
+@media (max-width: 520px) {
+  .bib li { grid-template-columns: 1fr; }
 }
 
 /* === Footer ====================================================== */
@@ -559,7 +560,7 @@ hr::after,
 }
 
 /* === Prose / Content pages ======================================= */
-.prose { padding: 2rem 0; }
+.prose { padding: 0 0 1.5rem; }
 
 /* === Page sidebar image (About, Research) ======================== */
 .page-sidebar-image {
@@ -590,24 +591,9 @@ hr::after,
     max-width: 100%;
     margin: 0 0 1.5rem 0;
   }
+  .page-sidebar-image--decorative { display: none; }
 }
 
-/* === Legacy nav.html Bootstrap nav (unused, harmless to keep) ==== */
-.im-header__inner {
-  max-width: 72rem; margin: 0 auto; padding: 0.75rem 1rem;
-  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
-}
-.im-brand { font-weight: 700; text-decoration: none; }
-.im-nav   { display: flex; gap: 1rem; margin: 0; padding: 0; list-style: none; }
-.im-nav a { display: block; padding: 0.5rem 0.75rem; border-radius: 0.6rem; text-decoration: none; border: 1px solid var(--border-light); }
-.im-toggle { display: none; }
-.im-burger { display: none; border: 1px solid var(--border-light); padding: 0.5rem 0.75rem; border-radius: 0.6rem; cursor: pointer; background: transparent; }
-@media (max-width: 768px) {
-  .im-burger { display: inline-flex; align-items: center; }
-  .im-menu   { display: none; width: 100%; }
-  .im-toggle:checked ~ .im-menu { display: block; }
-  .im-nav    { display: grid; gap: 0.5rem; margin-top: 0.5rem; }
-}
-@media (min-width: 769px) {
-  .im-menu { display: block; }
-}
+/* === Books: award / review notes ================================ */
+.book-note { font-size: 0.85rem; color: var(--text-secondary); margin: 0.35rem 0; }
+.card-body .muted { font-size: 0.9rem; margin: 0.25rem 0; }

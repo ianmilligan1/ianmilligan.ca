@@ -8,13 +8,13 @@ disableKinds = ["taxonomy", "term"]
   pagerSize = 10
 
 [params]
-  description = "Historian of the Digital Age and Academic Administrator. Author of *Averting the Digital Dark Age*."
+  description = "Ian Milligan is a historian of the digital age, Professor of History and inaugural Director of the School of Social, Political, and Historical Research at the University of Waterloo, and author of Averting the Digital Dark Age (Johns Hopkins, 2024)."
   name = "Ian Milligan"
   postnominal = "FRHistS"  # leave blank to hide
   role = "Professor of History & Director, School of Social, Political, and Historical Research"
   affiliation = "University of Waterloo"
   hero_tagline = ""  # leave blank to hide the kicker line
-  hero_highlight = "Author of Averting the Digital Dark Age (JHU Press, 2024)."
+  hero_highlight = "Author of *Averting the Digital Dark Age* (Johns Hopkins, 2024)."
   hero_image = "images/milligan-2026.jpg"
   email = "i2millig@uwaterloo.ca"
   orcid = "https://orcid.org/0000-0002-1470-7723"
@@ -22,11 +22,6 @@ disableKinds = ["taxonomy", "term"]
   address = "Hagey Hall of the Humanities (HH 316), 200 University Ave W, Waterloo, ON N2L 3G1"
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
   [[menu.main]]
     name = "About"
     url = "/about/"
@@ -43,16 +38,22 @@ disableKinds = ["taxonomy", "term"]
     weight = 4
 
   [[menu.main]]
+    name = "Leadership"
+    url = "/leadership/"
+    weight = 5
+
+  [[menu.main]]
     name = "Keynotes & Media"
     url = "/talks/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "CV"
     url = "/Milligan_CV.pdf"
     weight = 45
+

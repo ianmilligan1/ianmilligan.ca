@@ -1,4 +1,4 @@
-{{ with site.Data.books }}
+{{ with sort site.Data.books "year" "desc" }}
 <section class="books container">
 
   <!-- Hero: latest book -->
@@ -38,6 +38,7 @@
         <div class="card-body">
           <h3 class="card-title">{{ $book.title }}</h3>
           {{ with $book.subtitle }}<p class="muted">{{ . }}</p>{{ end }}
+          {{ with $book.note }}<p class="book-note">{{ . }}</p>{{ end }}
           <p class="meta">
             {{ with $book.publisher }}{{ . }}, {{ end }}
             {{ with $book.year }}{{ . }}{{ end }}

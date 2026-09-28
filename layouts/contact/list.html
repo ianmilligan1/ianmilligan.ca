@@ -5,7 +5,9 @@
   <ul>
     <li>Email: <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
     {{ with .Site.Params.phone }}<li>Phone: {{ . }}</li>{{ end }}
-    {{ with .Site.Params.address }}<li>Address: {{ . }}</li>{{ end }}
+    {{ with .Site.Params.address }}<li>Office: {{ . }}</li>{{ end }}
+    {{ with .Site.Params.orcid }}<li>ORCID: <a href="{{ . }}">{{ strings.TrimPrefix "https://" . }}</a></li>{{ end }}
+    {{ with .Site.Params.google_scholar }}<li><a href="{{ . }}">Google Scholar profile</a></li>{{ end }}
   </ul>
 </section>
 {{ end }}

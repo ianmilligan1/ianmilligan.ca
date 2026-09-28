@@ -2,8 +2,8 @@
   {{ with site.Data.quotes }}
     {{ range . }}
       <blockquote>
-        <p>"{{ .quote }}"</p>
-        <footer>— {{ if .url }}<a href="{{ .url }}" rel="noopener">{{ .source }}</a>{{ else }}{{ .source }}{{ end }}</footer>
+        <p>&ldquo;{{ .quote | markdownify }}&rdquo;</p>
+        <footer>— {{ if .url }}<a href="{{ .url }}" rel="noopener">{{ .source | markdownify }}</a>{{ else }}{{ .source | markdownify }}{{ end }}</footer>
       </blockquote>
     {{ end }}
   {{ end }}

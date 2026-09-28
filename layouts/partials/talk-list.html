@@ -1,0 +1,10 @@
+{{- /* Renders a list of talks (title, venue, date "Month YYYY", optional kind/note) in the bibliography style. */ -}}
+<ol class="bib">
+  {{ range . }}
+    {{- $parts := split .date " " }}
+    <li>
+      <span class="bib-year">{{ index $parts 1 }}</span>
+      <span class="bib-entry">&ldquo;{{ .title }}{{ if not (findRE `[?!.]$` .title) }}.{{ end }}&rdquo; {{ with .kind }}{{ . }}, {{ end }}{{ .venue | markdownify }}, {{ index $parts 0 }}.{{ with .note }} <span class="muted">{{ . }}.</span>{{ end }}</span>
+    </li>
+  {{ end }}
+</ol>
