@@ -5,7 +5,7 @@ description: "Ian Milligan's academic leadership at the University of Waterloo a
 
 ## Director, School of Social, Political, and Historical Research (2026–⁠2030)
 
-Ian Milligan is the inaugural Director of the School of Social, Political, and Historical Research, created through the University of Waterloo Faculty of Arts' reorganization into six schools. The School brings together seven departments: Anthropology, Classical Studies, History, Philosophy, Political Science, Religious Studies, and Sociology & Legal Studies.
+Ian Milligan is the inaugural Director of the School of Social, Political, and Historical Research, created through the University of Waterloo Faculty of Arts' reorganization into six schools. The School brings together seven departments: Anthropology, Classical Studies, History, Philosophy, Political Science, Religious Studies, and Sociology & Legal Studies. He is also a member of the Faculty of Arts Leadership Group.
 
 ## Associate Vice-President, Research Oversight & Integrity (2022–⁠2026)
 
@@ -17,7 +17,8 @@ Funded by the Andrew W. Mellon Foundation, [Archives Unleashed](https://archives
 
 ## University Governance
 
-- Member, University of Waterloo Executive Council (2022–⁠present)
+- Member, Faculty of Arts Leadership Group (2026–⁠present)
+- Member, University of Waterloo Executive Council (2022–⁠2026)
 - Elected Faculty Representative, Board of Governors (2020–⁠2022)
 - Senator, University of Waterloo Senate (2018–⁠2022; two elected terms)
 - Member, Senate Graduate and Research Council (2022–⁠2026)
