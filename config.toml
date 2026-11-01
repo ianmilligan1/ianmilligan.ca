@@ -54,6 +54,6 @@ disableKinds = ["taxonomy", "term"]
 
   [[menu.main]]
     name = "CV"
-    url = "/Milligan_CV.pdf"
+    url = "/milligan_cv.pdf"
     weight = 45
 

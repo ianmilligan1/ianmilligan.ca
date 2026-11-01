@@ -37,3 +37,14 @@
   to = "https://ianmilli.wordpress.com/20:splat"
   status = 301
   force = true
+
+# Old capitalized CV filenames → canonical lowercase PDF
+[[redirects]]
+  from = "/Milligan_CV.pdf"
+  to = "/milligan_cv.pdf"
+  status = 301
+
+[[redirects]]
+  from = "/MIlligan_CV.pdf"
+  to = "/milligan_cv.pdf"
+  status = 301
